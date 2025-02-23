@@ -1,0 +1,41 @@
+######################## custom scripts & styles ####################
+
+# Add custom assets relative to /static or via https
+logo_on_white: "/images/logo/logo.png"
+logo_on_black: "/images/logo/logo.png"
+custom_js: ["js/custom.js"]
+custom_css: ["css/custom.css"]
+
+######################## custom config ####################
+
+### default social share image (can also be set per lang) ###
+images: []
+
+github:
+  repo_url: "https://github.com/lidaof/hprc-web-portal/blob/master"
+  show_edit_link: true
+
+social_links:
+  devstats: ""
+  discord: ""
+  facebook: "https://www.facebook.com/profile.php?id=61558604101653"
+  flickr: ""
+  github: ""
+  instagram: "https://www.instagram.com/humanpangenome/"
+  landscape: ""
+  linkedin: "https://www.linkedin.com/groups/14431412/"
+  mastodon: ""
+  pinterest: ""
+  rss: ""
+  slack: ""
+  stackoverflow: ""
+  threads: ""
+  twitter: ""
+  x: "https://x.com/HumanPangenome"
+  youtube: ""
+  bluesky: "https://bsky.app/profile/humanpangenome.bsky.social"
+
+# Makes the header sticky on tall screens
+sticky_header: true
+# Enable search in header UI
+show_search: false

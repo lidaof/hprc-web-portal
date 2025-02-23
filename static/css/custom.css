@@ -1,0 +1,302 @@
+/* :root {
+    --bg-color: #EFFBFF;
+    --primary-400: black;
+}
+
+.content {
+    padding: 1rem;
+    background-color: var(--bg-color);
+}
+
+
+.main-menu-cta {
+    background-color: var(--primary-400);
+    color: black;
+}
+
+.accordions {
+    background-color: var(--white);
+}
+
+.accordions h4 {
+    text-transform: none;
+    font-weight: 700;
+    padding-left: 1rem;
+}
+
+.accordions .cross {
+    margin-right: 1rem;
+}
+
+.accordion__content p {
+    padding-left: 1rem;
+}
+
+blockquote {
+    text-align: center;
+    margin: 1rem auto;
+    background-color: var(--white);
+}
+
+blockquote footer {
+    font-weight: bold;
+}
+
+.column img {
+    display: block;
+    margin: auto;
+}
+
+
+
+.main-menu-cta {
+    background-color: #FFB19A;
+}
+
+.main-menu-cta:hover {
+    background-color: #FFB19A;
+}
+
+.button.tertiary {
+    background-color: #FFB19A;
+}
+
+.button.tertiary:hover {
+    background-color: #FFB19A;
+}
+
+.goog-te-gadget-simple {
+    background-color: unset !important;
+}
+
+.purpose h3 {
+    text-align: center;
+}
+
+
+
+.goog-te-gadget-simple img {
+    display: inline;
+}
+
+#google_translate_element {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-bottom: 1rem;
+}
+
+
+.to-main {
+    margin: auto;
+    display: block;
+    margin-bottom: 1ch;
+    padding: 1rem;
+    font-size: 1.4rem;
+}
+.to-main a {
+    
+    display: block;
+    
+    text-decoration: none;
+    margin: auto;
+}
+
+.content h2 {
+    text-align: center;
+}
+
+#myModal {
+    max-width: 1000px;
+}
+
+/* The Modal (background) */
+/* .modal {
+    display: none;
+    position: fixed;
+    z-index: 100;
+    margin: auto;
+    top: 15%;
+    height: auto;
+    overflow: auto;
+    background-color: white;
+    padding: 10px;
+} */
+
+/* Modal Content/Box */
+
+/* The Close Button */
+/* .close {
+    color: #038e1a;
+    font-weight: bold;
+    padding: 1rem;
+}
+
+.close:hover,
+.close:focus {
+    color: black;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+.modal-label {
+    display: block;
+    margin-top: 20px;
+    letter-spacing: 2px;
+    font-weight: bold;
+}
+
+.modal-input {
+    width: 439px;
+    height: 27px;
+    background: #efefef;
+    border: 1px solid #dedede;
+    padding: 10px;
+    margin-top: 3px;
+    font-size: 0.9em;
+    color: #3a3a3a;
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+    border-radius: 5px;
+}
+
+.modal-input:focus {
+    border: 2px solid #5DADE2;
+}
+
+.modal-textarea {
+    width: 439px;
+    height: 200px;
+    background: #efefef;
+    border: 1px solid #dedede;
+    padding: 10px;
+    margin-top: 3px;
+    font-size: 0.9em;
+    color: #3a3a3a;
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+    border-radius: 5px;
+}
+
+.modal-submit {
+    width: 439px;
+    height: 35px;
+    background: #efefef;
+    border: 1px solid #dedede;
+    font-size: 0.9em;
+    color: #3a3a3a;
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+    border-radius: 5px;
+}
+
+#submit {
+    width: 127px;
+    height: 60px;
+    text-indent: -9999px;
+    border: none;
+    cursor: pointer;
+}
+
+#submit:hover {
+    opacity: .9;
+}
+
+.row {
+    display: flex;
+}
+
+.modal-column {
+    flex: 50%;
+    padding: 10px;
+}
+
+.left-column {
+    font-size: 2rem;
+
+}
+
+.columns {
+    margin-top: 0;
+}
+
+.column p {
+    margin-top: 0;
+} */
+
+.content>* {
+    max-width: 100%;
+}
+
+.intro2 {
+    font-size: 1.6rem;
+}
+
+.intro2 em {
+    text-decoration: underline;
+}
+
+img {
+    margin: auto;
+    display: block;
+}
+
+#application_form_div {
+    background-color: rgba(245, 221, 215, 0.576);
+    border-radius: 10px;
+    padding: 5px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    line-height: 30px;
+    font-size: 18px;
+}
+
+#policy_form,
+#application_form {
+    color: rgba(230, 63, 25, 0.75);
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+#policy_form:hover,
+#application_form:hover {
+    font-style: italic;
+}
+
+.data-container img {
+    max-height: 100px !important;
+}
+
+.seq-tech img {
+    max-height: 150px !important;
+}
+
+.tech img {
+    max-height: 100px !important;
+    margin-left: 0;
+}
+
+.tech a {
+    display: block;
+    font-size: 2rem;
+    margin: auto;
+    text-align: center;
+}
+
+.footer {
+    background-color: #ededed;
+    color: black;
+    margin-top: 0;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.footer a {
+    color: black;
+}
+
+.footer__menu-cta-wrapper {
+    margin-bottom: 20px;
+    display: none;
+}

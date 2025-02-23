@@ -1,0 +1,114 @@
+en:
+  languageName: English
+  weight: 1
+  ### copyright (markdown can be used) ###
+  copyright: "Human Pangenome Reference Consortium."
+  title: "Human Pangenome Reference Consortium"
+  params:
+    description: "Human Pangenome Reference Consortium"
+    ### accessibility ###
+    # accessibility:
+    #   skip_text: "Skip to content"
+    #   help_text: "Accessibility Statement"
+    #   help_url: "/example-page/"
+    ### calls to action ###
+    main_cta:
+      text: "Internal Wiki"
+      link: "https://wiki.humanpangenome.org/"
+    footer_cta:
+      # text: "Contact Us"
+      # link: "/contact-us/"
+    github_edit: "Edit this page on GitHub"
+  ### example menu showing children ###
+  menu:
+    main:
+    - identifier: "about"
+      name: "About"
+      url: "#"
+      weight: 1
+    - identifier: "organization"
+      name: "Organization"
+      url: "/organization/"
+      weight: 1
+      # post: "Nulla consequat massa quis enim. Donec pede justo."
+      parent: "about"
+    - identifier: "funding"
+      name: "Funding"
+      url: "/funding/"
+      weight: 2
+      parent: "about"
+    - identifier: "advisory"
+      name: "Advisory"
+      url: "/advisory/"
+      weight: 3
+      parent: "about"
+    - identifier: "associate-members-and-partners"
+      name: "Aassociate members and partners"
+      url: "/associate-members-and-partners/"
+      weight: 4
+      parent: "about"
+    - identifier: "resources"
+      name: "Resources"
+      url: "#"
+      weight: 2
+    - identifier: "data"
+      name: "Data"
+      url: "/data/"
+      weight: 1
+      parent: "resources"
+    - identifier: "samples"
+      name: "Samples"
+      url: "/samples/"
+      weight: 2
+      parent: "resources"
+    - identifier: "technology"
+      name: "Technology"
+      url: "/technology/"
+      weight: 3
+      parent: "resources"
+    - identifier: "publication"
+      name: "Publication"
+      url: "/publication/"
+      weight: 4
+      parent: "resources"
+    - identifier: "participant"
+      name: "HPRC Participant"
+      url: "https://hprc-participant.org/"
+      weight: 5
+      parent: "resources"
+    - identifier: "HPP"
+      name: "HPP"
+      url: "https://humanpangenomeproject.org/"
+      weight: 3
+    - identifier: "contact"
+      name: "Contact"
+      url: "/contact/"
+      weight: 4
+    
+    
+# es:
+#   languageName: Spanish
+#   contentDir: content/es
+#   weight: 2
+#   title: "Título del Sitio"
+#   params:
+#     description: "Descripción del Sitio"
+#   menu:
+#     main:
+#     - identifier: "about"
+#       name: "Acerca de"
+#       url: "/example-page/"
+#       weight: 1
+#     - identifier: "child-1"
+#       name: "Página Hija de Ejemplo"
+#       url: "/example-page/"
+#       weight: 1
+#       parent: "about"
+#     - identifier: "faq"
+#       name: "FAQs"
+#       url: "/faq/"
+#       weight: 3
+#     - identifier: "blog"
+      # name: "Blog"
+      # url: "/blog/"
+      # weight: 2
