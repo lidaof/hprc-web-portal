@@ -7,9 +7,27 @@ showHeader: false
 
 ## Funding
 
-{{< purple >}}
-The National Human Genome Research Institute (NHGRI) is funding multiple components to improve and update the Human Genome Reference Program. These funding resources include the following: A Human Genome Reference Center (HGRC; RFA-HG-19-004), High Quality Human Reference Genomes (HGRQ; RFA-HG-19-002), Genome Reference Representations (GRR; RFA-HG-19-003), Informatics tools for use of the human genome reference (see Concept documents), Technology development for complete sequencing of genomes (NOT-HG-19-011).
-{{< /purple >}}
+{{< intro >}}
+Information on HPRC funding can be found below.
+{{< /intro >}}
+
+The Human Pangenome Reference Consortium Coordination Center: 
+[U41HG010972](https://reporter.nih.gov/search/UkVuZKBwu0mvAXWVo4R-JQ/project-details/10907973)
+
+Center for Human Genome Reference Diversity:
+[UM1HG010971](https://reporter.nih.gov/search/cugV7XQaDEyodTw7Ge62ig/project-details/10908090)
+
+Building Tools and Community to Make Pangenomes Accessible:
+[U01HG013760-01](https://reporter.nih.gov/search/uiO5anpTS0Cl7jFJopKetQ/project-details/10978097)
+
+Integrating the Reference Pangenome with Biobank-Scale Data for Complex Trait Analysis:
+[U01HG013755-01](https://reporter.nih.gov/search/JhN1Nj6oZEGWvA-cLzSFug/project-details/10977573)
+
+Tools for Comprehensive Variant Characterization Using the Pangenome:
+[U01HG013748-01](https://reporter.nih.gov/search/n5tqw8c_0Ueqk5SMVueslw/project-details/10976565)
+
+Tooling for Accurately Studying the Epigenome Along the Human Pangenome Reference:
+[U01HG013744-01](https://reporter.nih.gov/search/-b_RoCPZZE2Y3VPOa26e3w/project-details/10976065)
 
 {{< columns count=2 >}}
 {{< column >}}

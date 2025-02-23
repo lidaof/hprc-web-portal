@@ -305,3 +305,20 @@ img {
     font-size: 2rem;
     text-align: center; 
 }
+
+:root {
+    /* --bg-color: #EFFBFF; */
+    --primary-400: #ff6600;
+}
+
+a {
+    color: var(--primary-400);
+}
+
+.main-menu-cta {
+    background-color: var(--primary-400)
+}
+
+.main-menu-cta:hover {
+    background-color: #FFB19A;
+}

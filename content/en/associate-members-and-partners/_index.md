@@ -49,157 +49,52 @@ Human Pangenome Reference Consortium is an international effort focused on devel
 
 ### Current Associate Members
 
-<p>
-                    Hardip Patel, <br />
-                    <span style="font-style: italic;"
-                        >Australian National University, since September 2020</span
-                    >
-                </p>
-                <p>
-                    Simon Easteal, <br />
-                    <span style="font-style: italic;"
-                        >Australian National University, since September 2020</span
-                    >
-                </p>
-                <p>
-                    Steven Salzberg, <br />
-                    <span style="font-style: italic;"
-                        >Johns Hopkins University, since September 2020</span
-                    >
-                </p>
-                <p>
-                    Jeffrey Rosenfeld, <br />
-                    <span style="font-style: italic;">
-                        Rutgers University, since December 2020</span
-                    >
-                </p>
-                <p>
-                    George Liu, <br />
-                    <span style="font-style: italic;"
-                        >USDA ARS, since March 2021</span
-                    >
-                </p>
-                <p>
-                    Obed Garcia, <br />
-                    <span style="font-style: italic;"
-                        >Stanford University, since June 2021</span
-                    >
-                </p>
-                <p>
-                    Omar Eduardo Cornejo Ordaz, <br />
-                    <span style="font-style: italic;"
-                        >Washington State University, since June 2021</span
-                    >
-                </p>
-                <p>
-                    Shilpa Garg, <br />
-                    <span style="font-style: italic;"
-                        >University of Copenhagen, since August 2021</span
-                    >
-                </p>
-                <p>
-                    Ahmad Abou Tayoun, <br />
-                    <span style="font-style: italic;"
-                        >Al Jalila Children’s Speciality Hospital and Mohammed
-                        Bin Rashid University, since December 2021</span
-                    >
-                </p>
-                <p>
-                    Guillaume Bourque, <br />
-                    <span style="font-style: italic;"
-                        >McGill University, since December 2021</span
-                    >
-                </p>
-                <p>
-                    Corey Watson, <br />
-                    <span style="font-style: italic;"
-                        >University of Louisville, since December 2021</span
-                    >
-                </p>
-                <p>
-                    Kai Ye, <br />
-                    <span style="font-style: italic;"
-                        >Xi’an Jiaotong University, since June 2022</span
-                    >
-                </p>
-                <p>
-                    Younes Mokrab, <br />
-                    <span style="font-style: italic;"
-                        >Sidra Medicine, since August 2022</span
-                    >
-                </p>
-                <p>
-                    Nathan Sheffield, <br />
-                    <span style="font-style: italic;"
-                        >University of Virginia, since September 2022</span
-                    >
-                </p>
-                <p>
-                    Yafei Mao, <br />
-                    <span style="font-style: italic;"
-                        >Shanghai Jiao Tong University, since October 2022</span
-                    >
-                </p>
-                <p>
-                    Mile Sikic, <br />
-                    <span style="font-style: italic;"
-                        >Genome Institute of Singapore, since November 2022</span
-                    >
-                </p>
-                <p>
-                    Jianjun Liu, <br />
-                    <span style="font-style: italic;"
-                        >Genome Institute of Singapore, since November 2022</span
-                    >
-                </p>
-                <p>
-                    Jason Chin, <br />
-                    <span style="font-style: italic;"
-                        >GeneDX, since January 2023</span
-                    >
-                </p>
-                <p>
-                    Chaochun Wei, <br />
-                    <span style="font-style: italic;"
-                        >Shanghai Jiao Tong University, since January 2023</span
-                    >
-                </p>
-                <p>
-                    Jianguo Lu, <br />
-                    <span style="font-style: italic;"
-                        >Sun Yat-sen University, since January 2023</span
-                    >
-                </p>
-                <p>
-                    Chongyuan Luo, <br />
-                    <span style="font-style: italic;"
-                        >University of California Los Angeles, since January
-                        2023</span
-                    >
-                </p>
-                <p>
-                    Mikko Rautiainen, <br />
-                    <span style="font-style: italic;"
-                        >University of Helsinki, since January 2023</span
-                    >
-                </p>
-                <p>
-                    Li Song, <br />
-                    <span style="font-style: italic;"
-                        >Geisel School of Medicine at Dartmouth, since July 2023</span
-                    >
-                </p>
-                <p>
-                    Zechen Chong, <br />
-                    <span style="font-style: italic;"
-                        >University of Alabama at Birmingham, since July 2023</span
-                    >
-                </p>
+| **Name** | **Affiliation** | **Start Date** |
+| --- | --- | --- |
+| Hardip Patel | Austrailian National University | September 2020 |
+| Simon Easteal | Australian National University| September 2020 |
+| Steven Salzberg | Johns Hopkins University | September 2020 |
+| Jeffrey Rosenfeld | Rutgers University | December 2020 |
+| George Liu | USDA ARS | March 2021 |
+| Obed Garcia | Stanford University | June 2021 |
+| Omar Eduardo Cornejo Ordaz | Washington State University | June 2021 |
+| Shilpa Garg | University of Copenhagen | August 2021 |
+| Ahmad Abou Tayoun | Al Jaila Children's Hospital & Mohammed Bin Rashid University | December 2021 |
+| Guillaume Borque | McGill University | December 2021 |
+| Corey Watson | University of Louisville | December 2021 |
+| Kai Ye | Xi'an Jiaotong University | June 2022 |
+| Younes Mokrab | Sidra Medicine | August 2022 |
+| Nathan Sheffield |  University of Virgina | September 2022 |
+| Yafei Mao | Shanghai Jiao Tong Univeristy | October 2022 |
+| Mile Sikic | Genome Institute of Singapore | November 2022 |
+| Jianjun Liu | Genome Institure of Singaore | November 2022 |
+| Jason Chin | GeneDX | January 2023 |
+| Chaochun Wei | Shanghai Jiao Tong University | January 2023 |
+| Mikko Rautiainen | University of Helsinki | January 2023 |
+| Alessandro Raveane | Human Technopole | May 2023
+| Nicole Seranzo | Human Technopole | May 2023
+| Charles Wang | Loma Linda University Center For Genomics | May 2023
+| Li Song | Geisel School of Medicine at Dartmouth | June 2023 |
+| Zechen Chong |University of Alabama at Birmingham | July 2023
+| Xiangtao Liu | Xinjiang Medical University | June 2023
+| Simon Giunta | Sapienza University of Rome | June 2023
+| Floris Barthel | Translational Genomics Research Institute
+| Dylan Duchen | Yale University Medical School | December 2023
+| Steven Kleinstein | Yale University Medical School | December 2023
+| Jia-Xing Yue | Sun Yat-sen University Cancer Center | March 2024
+| Anna-Sophie Fiston-Lavier | University of Montpellier - Faculty of Sciences | August 2024
+| Kateryna Makova | Penn State University | August 2024
+| Mohammed Jashim Uddin | Mohammed Bin Rashid University of Medicine and Health Sciences | August 2024
+| Christine Beck | Uconn Health, Jackson Lab | August 2024
+| Mikhail Kolmogorov | National Cancer Institute | August 2024
+| Daniel Doerr | Department of Endocrinology and Diabetology, Medical Facility, Heinrich Heine University Dusseldord | August 2024
 
 {{< /column >}}
 {{< column >}}
 
 ### Partners
+
+{{< img src="hprcpartnerlogos.png" alt="hprc partner logos" >}}
 
 <a class="link" href="https://www.coriell.org/" target="_blank"
                     >Coriell Institute</a

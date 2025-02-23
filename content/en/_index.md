@@ -15,7 +15,9 @@ The Human Pangenome Reference Consortium (HPRC) is a project funded by the Natio
 
 <div class="home">
 
+<div style="text-align: center">
 {{< button link="#" style="secondary" text="HPRC Data Hub" >}}
+</div>
 
 ### We Need More Than One Human Reference Genome
 
