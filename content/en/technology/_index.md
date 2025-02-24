@@ -47,7 +47,7 @@ The HPRC utilizes NIH’s AnVIL platform to generate assemblies in a open, repro
 [Anvil](https://anvil.terra.bio/)
 {{< /column >}}
 {{< column >}}
-[!['Anvil Logo'](Tech-DataSource-Anvil.png 'Anvil Logo')](https://anvil.terra.bio/)
+[!['Anvil Logo'](Tech-DataSource-AnVil.png 'Anvil Logo')](https://anvil.terra.bio/)
 {{< /column >}}
 {{< column >}}
 [Dockstore](https://dockstore.org/organizations/HumanPangenome)
