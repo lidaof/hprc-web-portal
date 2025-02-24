@@ -94,7 +94,7 @@ Human Pangenome Reference Consortium is an international effort focused on devel
 
 ### Partners
 
-{{< img src="hprcpartnerlogos.png" alt="hprc partner logos" >}}
+{{< img src="HPRCPartnerLogos.png" alt="hprc partner logos" >}}
 
 <a class="link" href="https://www.coriell.org/" target="_blank"
                     >Coriell Institute</a
