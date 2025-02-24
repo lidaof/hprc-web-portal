@@ -17,16 +17,16 @@ The HPRC generates sequencing data, creates assemblies and pangenomes(see figure
 
 {{< columns count=2 >}}
 {{< column >}}
-[!['PacBio Logo'](Tech-production-1.png 'PacBio Logo')](https://www.pacb.com/)
+[!['PacBio Logo'](Tech-Production-1.png 'PacBio Logo')](https://www.pacb.com/)
 {{< /column >}}
 {{< column >}}
-[!['ONT Logo'](Tech-production-2.png 'ONT Logo')](https://nanoporetech.com/)
+[!['ONT Logo'](Tech-Production-2.png 'ONT Logo')](https://nanoporetech.com/)
 {{< /column >}}
 {{< column >}}
-[!['dovetail Logo'](Tech-production-3.png 'dovetail Logo')](https://dovetailgenomics.com/)
+[!['dovetail Logo'](Tech-Production-3.png 'dovetail Logo')](https://dovetailgenomics.com/)
 {{< /column >}}
 {{< column >}}
-[!['illumina Logo'](Tech-production-4.png 'illumina Logo')](https://www.illumina.com/)
+[!['illumina Logo'](Tech-Production-4.png 'illumina Logo')](https://www.illumina.com/)
 {{< /column >}}
 {{< /columns >}}
 </div>
@@ -47,13 +47,13 @@ The HPRC utilizes NIH’s AnVIL platform to generate assemblies in a open, repro
 [Anvil](https://anvil.terra.bio/)
 {{< /column >}}
 {{< column >}}
-[!['Anvil Logo'](Tech-datasource-anvil.png 'Anvil Logo')](https://anvil.terra.bio/)
+[!['Anvil Logo'](Tech-Datasource-Anvil.png 'Anvil Logo')](https://anvil.terra.bio/)
 {{< /column >}}
 {{< column >}}
 [Dockstore](https://dockstore.org/organizations/HumanPangenome)
 {{< /column >}}
 {{< column >}}
-[!['Dockstore Logo'](Tech-datasource-dockstore.png 'Dockstore Logo')](https://dockstore.org/organizations/HumanPangenome)
+[!['Dockstore Logo'](Tech-Datasource-Dockstore.png 'Dockstore Logo')](https://dockstore.org/organizations/HumanPangenome)
 {{< /column >}}
 {{< /columns >}}
 
