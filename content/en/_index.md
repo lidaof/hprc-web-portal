@@ -33,6 +33,6 @@ The HPRC was started to help migrate common genomic analysis to use a pangenome 
 
 ### Collaboration Map
 
-{{< img src="../samples/collaborationmap.png" >}}
+{{< img src="/samples/CollaborationMap.png" >}}
 
 </div>

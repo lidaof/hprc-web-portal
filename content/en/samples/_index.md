@@ -21,4 +21,4 @@ The first 200 samples included in the project will be from the 1000 genomes (1KG
 
 We acknowledge that references generated from 1000 genome samples alone are insufficient to capture the extent of sequence diversity in the human population. To ensure that we are able to maximize our surveys of sample diversity, we will broaden our efforts to recruit new participants into this study, and establish a consent and open access data release and cell-based resources.
 
-{{< img src="collaborationmap.png" >}}
+{{< img src="CollaborationMap.png" >}}
