@@ -9,7 +9,7 @@ showHeader: false
 
 {{< columns count=2 >}}
 {{< column >}}
-{{< img src="data-1.png" >}}
+{{< img src="Data-1.png" >}}
 {{< /column >}}
 {{< column >}}
 {{< intro >}}
@@ -26,7 +26,7 @@ We have two “hot off the presses” data sets available at the links below for
 The data was generated at PacBio using HG002 libraries created at Washington University. The data set has a large, tight size fraction targeting 20kb.
 {{< /column >}}
 {{< column >}}
-{{< img src="data-logo-pacbio.svg" >}}
+{{< img src="Data-logo-pacbio.svg" >}}
 {{< /column >}}
 {{< /columns >}}
 
