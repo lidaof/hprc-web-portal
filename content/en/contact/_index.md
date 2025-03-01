@@ -6,272 +6,141 @@ showHeader: false
 
 ## Contact Us
 
-{{< purple >}}
-For general or other questions, please contact <hprcadmin@gowustl.onmicrosoft.com>.
-{{< /purple >}}
+{{< bluebox >}}
+For general or other questions, please contact HPCR Administration: <hprcadmin@gowustl.onmicrosoft.com>
+{{< /bluebox >}}
 
-### Human Pangenome Coordinating Center
 
-The Human Genome Reference Center at Washington University in St. Louis serves as the coordinating center. They maintain and update the reference sequence; support state-of-the-art reference representations; and educate and coordinate with the research community (including clinicians and basic research scientists).
+{{< left img="TingWang.png" alt="TingWang" >}}
+#### The Human Pangenome Reference Consortium Coordination Center
 
-**Grant Number and Title:**
-
-5U41HG010972, WASH-UCSC-EBI Human Genome Reference Center
-
-{{< cards count=3 >}}
-{{< card >}}
-
-#### Ting Wang
-
-*Contact PI*
-
-Washington University in St. Louis
+Contact PI – Ting Wang
 
 <twang@wustl.edu>
-{{< /card >}}
-{{< card >}}
 
-#### Lucinda Fulton
+Washington University
 
-*Administrative Contact*
+Award Number: 2U41HG010972-06
+{{< /left >}}
 
-Washington University in St. Louis
+{{< br >}}
 
-<lfulton@wustl.edu>
-{{< /card >}}
-{{< card >}}
+{{< left img="KarenMiga.png" alt="KarenMiga" >}}
 
-#### Ira Hall
+#### Center for Human Genome Reference Diversity
 
-*Multi-PI*
+Contact PI – Karen Miga
 
-Yale University
+<khmiga@ucsc.edu>
 
-<ira.hall@yale.edu>
+University of California Santa Cruz
 
-{{< /card >}}
-{{< card >}}
+Award Number: 2UM1HG010971-06
+{{< /left >}}
 
-#### Benedict Paten
+{{< br >}}
 
-*Multi-PI*
+{{< left img="ErikGarrison.png" alt="ErikGarrison" >}}
 
-University of California, Santa Cruz
+#### Building Tools and Community to Make Pangenomes Accessible
 
-<benedict@soe.ucsc.edu>
-{{< /card >}}
-{{< card >}}
-#### Heng Li
+Contact PI – Erik Garrison
 
-*Co-Investigator*
-
-Dana Farber Cancer Institute
-
-<hli@jimmy.harvard.edu>
-{{< /card >}}
-{{< card >}}
-
-#### Kerstin Howe
-
-*Investigator*
-
-Welcome Sanger Institute
-
-<kj2@sanger.ac.uk>
-{{< /card >}}
-{{< /cards >}}
-
-### Genome Reference Representations Contacts
-
-The Genome Reference Representations (GRR) projects support research and development for a next-generation genome reference representation that can capture all human genome variation and support research on the full diversity of populations.
-
-**Grant Number and Title:**
-
-1U01HG010961, The Construction and Utility of Reference Pangenome Graphs
-
-{{< cards count=3 >}}
-{{< card >}}
-#### Heng Li
-
-*Contact PI*
-
-Dana Farber Cancer Institute
-
-<hli@jimmy.harvard.edu>
-{{< /card >}}
-{{< card >}}
-
-#### Benedict Paten
-
-*Co-Investigator*
+<egarris5@uthsc.edu>
 
 University of California, Santa Cruz
 
-<benedict@soe.ucsc.edu>
-{{< /card >}}
-{{< /cards >}}
+Award Number: 1U01HG013760-01
 
-**Grant Number and Title:**
+{{< /left >}}
+{{< br >}}
 
-1U01HG010973, Representing Structural Haplotypes and Complex Genetic Variation in Pangenome Graphs
+{{< left img="MelissaGymrek.png" alt="MelissaGymrek" >}}
 
-{{< cards count=3 >}}
-{{< card >}}
-#### Mark Chaisson
+#### Integrating the Reference Pangenome with BioBank Scale Data for Complex Trait Analysis
 
-*Contact PI*
+Contact PI – Melissa Gymrek
+
+<melissa.gymrek@gmail.com>
+
+University of California, San Diego
+
+Award Number: 1U01HG013755-01
+
+{{< /left >}}
+{{< br >}}
+
+{{< left img="BenedictPaten.png" alt="BenedictPaten" >}}
+
+#### Tools for Comprehensive Variant Characterization Using the Pangenome
+
+Contact PI – Benedict Paten
+
+<bpaten@ucsc.edu>
+
+University of California, Santa Cruz
+
+Award Number: 1U01HG013748-01
+
+{{< /left >}}
+{{< br >}}
+
+{{< left img="AndrewStergachis.png" alt="AndrewStergachis" >}}
+
+#### Tooling for Accurately Studying the Epigenome Along the Human Pangenome Reference
+
+Contact PI – Andrew Stergachis
+
+<absterga@uw.edu>
+
+University of Washington
+
+Award Number - 1U01HG013744-01
+
+{{< /left >}}
+{{< br >}}
+
+{{< left img="HengLi.png" alt="HengLi" >}}
+
+#### The Construction and Utility of Reference Pan-genome Graphs
+
+Contact PI – Heng Li
+
+<hli@jimmy.harvard.edu>
+
+Dana-Farber Cancer Institute
+
+Award Number: 3U01HG010961-03S1
+
+{{< /left >}}
+{{< br >}}
+
+{{< left img="MarkChaisson.png" alt="MarkChaisson" >}}
+
+#### Representing Structural Haplotypes and Complex Genetic Variation in Pan-genome Graphs
+
+Contact PI – Mark Chaisson
+
+<mchaisso@usc.edu>
 
 University of Southern California
 
-<mchaisso@usc.edu>
-{{< /card >}}
-{{< card >}}
-#### Evan Eichler
+Award Number: 3U01HG010973-03S1
 
-*Co-Investigator*
+{{< /left >}}
+{{< br >}}
 
-University of Washington
+{{< left img="HanleeP.Ji.png" alt="HanleePJi" >}}
 
-<eee@gs.washington.edu>
-{{< /card >}}
-{{< card >}}
-#### Tobias Marshall
+#### K-mer Indexing for Pangenome Reference Annotation
 
-*Co-Investigator*
+Contact PI – Hanlee Ji
 
-Max Planck Institut fur Informatik
+<drgalvez@stanford.edu>
 
-<tobias.marschall@hhu.de>
-{{< /card >}}
-{{< /cards >}}
+Stanford University
 
-**Grant Number and Title:**
+Award Number: 3U01HG010963-03S1
 
-1U01HG01963, K-mer Indexing for Pangenome Reference Annotation
-
-{{< cards count=3 >}}
-{{< card >}}
-#### Hanlee Ji
-
-*Contact PI*
-
-Standford University
-
-<hanleeji@stanford.edu>
-{{< /card >}}
-{{< card >}}
-#### Tsachy Weissman
-
-*Co-Investigator*
-
-Standford University
-
-<tsachy.weissman@gmail.com>
-{{< /card >}}
-{{< /cards >}}
-
-### Human Pangenome Sequencing Center
-
-The High-Quality Human Reference Genomes Center at the University of California, Santa Cruz collects additional DNA samples from populations not represented in the current reference, including the creation of cell lines. They will generate at least 350 high-quality reference genome sequences, a subset of which will be finished, telomere-to-telomere genome sequences. The center also disseminates the data and works closely with the other Human Genome Reference Program components.
-
-{{< cards count=3 >}}
-{{< card >}}
-#### Karen Miga
-
-*PI of the High Quality Reference Genomes (Pangenome Sequencing) project* 
-
-University of California, Santa Cruz
-
-<khmiga@soe.ucsc.edu>
-{{< /card >}}
-{{< card >}}
-#### Eimear Kenny
-
-*Multi-PI*
-
-Icahn School of Medicine
-
-<eimear.kenny@mssm.edu>
-{{< /card >}}
-{{< card >}}
-#### Mark Akeson
-
-*Co-Investigator*
-
-University of California, Santa Cruz
-
-<makeson@soe.ucsc.edu>
-{{< /card >}}
-{{< card >}}
-#### Ed Green
-
-*Co-Investigator*
-
-University of California, Santa Cruz
-
-<ed@soe.ucsc.edu>
-{{< /card >}}
-{{< card >}}
-#### Benedict Paten
-
-*Co-Investigator*
-
-University of California, Santa Cruz
-
-<benedict@soe.ucsc.edu>
-{{< /card >}}
-{{< card >}}
-#### Evan Eichler
-
-*Co-Investigator*
-
-University of Washington
-
-<eee@gs.washington.edu>
-{{< /card >}}
-{{< card >}}
-#### Ira Hall
-
-*Multi-PI*
-
-Yale University
-
-<ira.hall@yale.edu>
-{{< /card >}}
-{{< card >}}
-#### Ting Wang
-
-*Multi-PI*
-
-Washington University in St. Louis
-
-<twang@wustl.edu>
-{{< /card >}}
-{{< card >}}
-#### Erich Jarvis
-
-*Multi-PI*
-
-The Rockefeller University
-
-<ejarvis@mail.rockefeller.edu>
-{{< /card >}}
-{{< card >}}
-#### Heng Li
-
-*Co-Investigator*
-
-Dana Farber Cancer Institute
-
-<hli@jimmy.harvard.edu>
-{{< /card >}}
-{{< card >}}
-#### Matthew Mitchell
-
-*Co-Investigator*
-
-Coriell Institute
-
-<mmitchell@coriell.org>
-{{< /card >}}
-{{< /cards >}}
+{{< /left >}}
+{{< br >}}

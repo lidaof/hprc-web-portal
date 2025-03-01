@@ -1,15 +1,15 @@
 ---
-title: Aassociate members and partners
-description: Aassociate members and partners
+title: Associate Members
+description: Associate Members
 showHeader: false
 
 ---
 
-## Aassociate members and partners
+## Associate Members
 
-{{< pinkbox >}}
-Human Pangenome Reference Consortium is an international effort focused on developing an inclusive collection of human reference genomes that represent human haplotype diversity and the tool ecosystem needed to fully utilize this resource. The consortium welcomes the participation of all additional academic, industry partners and non-profit organizations. The value for these members is a highly interactive research environment that involves many aspects of the Human Pangenome Reference Research.
-{{< /pinkbox >}}
+{{< blue >}}
+The Human Pangenome Reference Consortium is an international effort. The consortium welcomes participation from academic and industry partners, as well as non-profit organizations.
+{{< /blue >}}
 
 {{< br >}}
 
@@ -32,20 +32,10 @@ Human Pangenome Reference Consortium is an international effort focused on devel
 
 {{< br >}}
 
-<div id="application_form_div">
-    The policy for associate members can be accessed <a
-        id="policy_form"
-        target="_blank"
-        href="HPRCAssociateMembersPolicy.pdf">here</a
-    >. HPRC associate membership application is available <a
-        id="application_form"
-        target="_blank"
-        href="HPRCCollaborationInformationFormV2.pdf">here</a
-    >.
-</div>
+{{< pinkbox >}}
+The Associate Membership Application is available [here](HPRCCollaborationInformationFormv3.1.pdf). The Associate Member policy can be accessed [here](HPRCAssociateMembersPolicy.pdf).
+{{< /pinkbox >}}
 
-{{< columns count=2 >}}
-{{< column >}}
 
 ### Current Associate Members
 
@@ -78,7 +68,7 @@ Human Pangenome Reference Consortium is an international effort focused on devel
 | Zechen Chong |University of Alabama at Birmingham | July 2023
 | Xiangtao Liu | Xinjiang Medical University | June 2023
 | Simon Giunta | Sapienza University of Rome | June 2023
-| Floris Barthel | Translational Genomics Research Institute
+| Floris Barthel | Translational Genomics Research Institute | August 2023
 | Dylan Duchen | Yale University Medical School | December 2023
 | Steven Kleinstein | Yale University Medical School | December 2023
 | Jia-Xing Yue | Sun Yat-sen University Cancer Center | March 2024
@@ -88,53 +78,3 @@ Human Pangenome Reference Consortium is an international effort focused on devel
 | Christine Beck | Uconn Health, Jackson Lab | August 2024
 | Mikhail Kolmogorov | National Cancer Institute | August 2024
 | Daniel Doerr | Department of Endocrinology and Diabetology, Medical Facility, Heinrich Heine University Dusseldord | August 2024
-
-{{< /column >}}
-{{< column >}}
-
-### Partners
-
-{{< img src="HPRCPartnerLogos.png" alt="hprc partner logos" >}}
-
-<a class="link" href="https://www.coriell.org/" target="_blank"
-                    >Coriell Institute</a
-                >
-                <p class="description">
-                    Many of the samples used in the reference genome are made
-                    available to researchers through the Coriell Institute.
-                </p>
-                <a
-                    class="link"
-                    href="https://www.ncbi.nlm.nih.gov/grc"
-                    target="_blank">Genome Reference Consortium</a
-                >
-                <p class="description">
-                    Genome Reference Consortium helps to put nucleotide
-                    sequences into chromosome context for many different
-                    genomes.
-                </p>
-                <div style="font-size: larger; font-weight: bold;">
-                    Google
-                </div>
-                <p class="description">
-                    The team at Google develops
-                    <a
-                        href="https://github.com/google/deepvariant"
-                        target="_blank"
-                        class="in_paragraph_link"
-                    >
-                        variant detection methods for calling with pangenomes
-                    </a> and for error correction of assemblies. Google has also
-                    developed <a
-                        href="https://github.com/google/deepconsensus"
-                        target="_blank"
-                        class="in_paragraph_link"
-                    >
-                        sequence data correction methods that improve the output
-                        of sequencing instruments
-                    </a>. Google is working with HPRC members to apply that
-                    technology to HPRC sequencing data and assemblies.
-                </p>
-
-{{< /column >}}
-{{< /columns>}}

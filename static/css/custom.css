@@ -241,29 +241,6 @@ img {
     display: block;
 }
 
-#application_form_div {
-    background-color: rgba(245, 221, 215, 0.576);
-    border-radius: 10px;
-    padding: 5px;
-    margin-left: auto;
-    margin-right: auto;
-    text-align: center;
-    line-height: 30px;
-    font-size: 18px;
-}
-
-#policy_form,
-#application_form {
-    color: rgba(230, 63, 25, 0.75);
-    font-weight: bold;
-    text-decoration: underline;
-}
-
-#policy_form:hover,
-#application_form:hover {
-    font-style: italic;
-}
-
 .data-container img {
     max-height: 100px !important;
 }
@@ -285,6 +262,7 @@ img {
 }
 
 .footer {
+    margin-top: 1rem;
     background-color: #ededed;
     color: black;
     margin-top: 0;
@@ -308,7 +286,7 @@ img {
 
 :root {
     /* --bg-color: #EFFBFF; */
-    --primary-400: #ff6600;
+    --primary-400: #355CAE;
 }
 
 a {
@@ -320,5 +298,14 @@ a {
 }
 
 .main-menu-cta:hover {
-    background-color: #FFB19A;
+    background-color: #4f82ef;
+}
+
+table {
+    font-size: 1.2rem;
+}
+
+.release h3 {
+    color: var(--primary-400);
+    font-weight: 800;
 }

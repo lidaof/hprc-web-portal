@@ -26,60 +26,89 @@ en:
       name: "About"
       url: "#"
       weight: 1
-    - identifier: "organization"
-      name: "Organization"
-      url: "/organization/"
+    - identifier: "working-groups"
+      name: "Working Groups"
+      url: "/working-groups/"
       weight: 1
+      parent: "about"
+    - identifier: "release-timeline"
+      name: "Release Timeline"
+      url: "/release-timeline/"
+      weight: 2
       # post: "Nulla consequat massa quis enim. Donec pede justo."
       parent: "about"
     - identifier: "funding"
       name: "Funding"
       url: "/funding/"
-      weight: 2
-      parent: "about"
-    - identifier: "advisory"
-      name: "Advisory"
-      url: "/advisory/"
       weight: 3
       parent: "about"
-    - identifier: "associate-members-and-partners"
-      name: "Aassociate members and partners"
-      url: "/associate-members-and-partners/"
+    - identifier: "external-scientific-panel"
+      name: "External Scientific Panel"
+      url: "/external-scientific-panel/"
       weight: 4
+      parent: "about"
+    - identifier: "associate-members"
+      name: "Associate Members"
+      url: "/associate-members/"
+      weight: 5
+      parent: "about"
+    - identifier: "partners"
+      name: "Partners"
+      url: "/partners/"
+      weight: 6
+      parent: "about"
+    - identifier: "code-of-conduct"
+      name: "Code of Conduct"
+      url: "/code-of-conduct/"
+      weight: 7
       parent: "about"
     - identifier: "resources"
       name: "Resources"
       url: "#"
       weight: 2
+    - identifier: "definitions"
+      name: "Definitions"
+      url: "/definitions/"
+      weight: 1
+      parent: "resources"
     - identifier: "data"
       name: "Data"
       url: "/data/"
-      weight: 1
+      weight: 2
       parent: "resources"
     - identifier: "samples"
       name: "Samples"
       url: "/samples/"
-      weight: 2
+      weight: 3
       parent: "resources"
     - identifier: "technology"
       name: "Technology"
       url: "/technology/"
-      weight: 3
-      parent: "resources"
-    - identifier: "publication"
-      name: "Publication"
-      url: "/publication/"
       weight: 4
+      parent: "resources"
+    - identifier: "publications"
+      name: "Publications"
+      url: "/publications/"
+      weight: 5
       parent: "resources"
     - identifier: "participant"
       name: "HPRC Participant"
       url: "https://hprc-participant.org/"
-      weight: 5
+      weight: 6
       parent: "resources"
-    - identifier: "HPP"
-      name: "HPP"
-      url: "https://humanpangenomeproject.org/"
+    # - identifier: "HPP"
+    #   name: "HPP"
+    #   url: "https://humanpangenomeproject.org/"
+    #   weight: 3
+    - identifier: "elsi"
+      name: "ELSI"
+      url: "#"
       weight: 3
+    - identifier: "consent"
+      name: "Consent"
+      url: "/consent/"
+      weight: 1
+      parent: "elsi"
     - identifier: "contact"
       name: "Contact"
       url: "/contact/"
