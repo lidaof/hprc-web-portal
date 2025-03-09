@@ -287,6 +287,11 @@ img {
 :root {
     /* --bg-color: #EFFBFF; */
     --primary-400: #355CAE;
+    /* --rem: 16; */
+}
+
+body {
+    font-size: 1.2rem;
 }
 
 a {
@@ -305,7 +310,7 @@ table {
     font-size: 1.2rem;
 }
 
-.release h3 {
+h3 {
     color: var(--primary-400);
     font-weight: 800;
 }

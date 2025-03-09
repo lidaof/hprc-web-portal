@@ -12,9 +12,9 @@ showHeader: false
 {{< img src="Data-1.png" >}}
 {{< /column >}}
 {{< column >}}
-{{< intro >}}
+
 The Human Pangenome Reference Consortium generates raw sequencing data, high-quality assemblies, and pangenomes. All data generated is open, publicly accessible, and can be downloaded or used in AWS, GCP, AnVIL, or locally.
-{{< /intro >}}
+
 {{< /column >}}
 {{< /columns >}}
 

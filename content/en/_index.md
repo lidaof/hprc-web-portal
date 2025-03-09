@@ -11,9 +11,7 @@ Human Pangenome Reference Consortium
 
 {{< img src="/img/HPRChomepagegraph.svg" >}}
 
-{{< intro >}}
 The Human Pangenome Reference Consortium (HPRC) is an NIH-funded project that aims to engage scientists and bioethicists in creating a human pangenome reference and resource that represents global human genomic variation. In the process of creating the pangenome, the HPRC is developing improved technology for genome assembly and a next-generation tool ecosystem that leverages the pangenome for comprehensive analyses.
-{{< /intro >}}
 
 <div class="home">
 
@@ -30,12 +28,12 @@ The HPRC will build a pangenome reference resource that will better serve humani
 ### Follow us on Bluesky
 
 <div>
-<bsky-embed username="humanpangenome.bsky.social" limit="2"></bsky-embed>
+<bsky-embed username="humanpangenome.bsky.social" limit="1"></bsky-embed>
 </div>
 
 ### Collaboration Map
 
-{{< img src="/samples/CollaboratorsMap.gif" >}}
+{{< img src="/samples/CollaboratorMapv2.gif" >}}
 
 
 </div>

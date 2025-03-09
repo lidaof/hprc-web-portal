@@ -8,9 +8,9 @@ showHeader: false
 
 *Data Use Protocol and Publication Protocol | November, 2022*
 
-{{< intro >}}
+
 HPRC’s goals are to develop resources for the human pangenome. These resources will include primary sequence data, high-quality reference genomes, pangenome alignments of these reference genomes, a pangenome tool ecosystem, and reference annotation. The purpose of the HPRC data use and publication policy is to encourage collaboration and coordination among investigators while ensuring the scientific community's timely release of research and resources. The document provides the process for disclosure of planned publications within the HPRC through submission and general guidelines for non-consortium data use and publications.
-{{< /intro >}}
+
 
 ### Data Use
 

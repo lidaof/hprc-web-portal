@@ -91,10 +91,15 @@ en:
       url: "/publications/"
       weight: 5
       parent: "resources"
+    - identifier: "consent"
+      name: "HPRC Consent"
+      url: "/consent/"
+      weight: 6
+      parent: "resources"
     - identifier: "participant"
       name: "HPRC Participant"
       url: "https://hprc-participant.org/"
-      weight: 6
+      weight: 7
       parent: "resources"
     # - identifier: "HPP"
     #   name: "HPP"
@@ -104,10 +109,15 @@ en:
       name: "ELSI"
       url: "#"
       weight: 3
-    - identifier: "consent"
-      name: "Consent"
-      url: "/consent/"
+    - identifier: "hprc-embedded-elsi"
+      name: "HPRC Embedded ELSI"
+      url: "/hprc-embedded-elsi/"
       weight: 1
+      parent: "elsi"
+    - identifier: "elsi-team"
+      name: "ELSI team"
+      url: "/elsi-team/"
+      weight: 2
       parent: "elsi"
     - identifier: "contact"
       name: "Contact"
