@@ -53,17 +53,18 @@ The HPRC has publicly released a dataset for Oxford Nanopore's new Duplex techno
 {{< columns count=2 >}}
 {{< column >}}
 
-### Data Sequencing
+### Sequencing Data Release2
 
-* PacBio HiFi
-* Oxford Nanopore
+* PacBio HiFi (with modification calls)
+* PacBio Kinex
+* Oxford Nanopore Ultralong (with modification calls)
 * Omni-C/Hi-C
 
 In addition, we include high coverage Illumina data produced by the NYGC for parents and children (when available). If you would like to download the files, data indexes are available in the GitHub repository.
 {{< /column >}}
 {{< column >}}
 [!['AnVil Logo'](Data-AnVil.png 'AnVil Logo')](https://anvil.terra.bio/)
-[!['GitHub Logo'](Data-Github.png 'GitHub Logo')](https://github.com/human-pangenomics/HPP_Year1_Data_Freeze_v1.0)
+[!['GitHub Logo'](Data-Github.png 'GitHub Logo')](https://github.com/human-pangenomics/hprc_intermediate_assembly/tree/main/data_tables/sequencing_data)
 [!['NCBI Logo'](Data-NCBI.png 'NCBI Logo')](https://www.ncbi.nlm.nih.gov/bioproject/730823)
 {{< /column >}}
 {{< /columns >}}
@@ -74,11 +75,11 @@ In addition, we include high coverage Illumina data produced by the NYGC for par
 [!['NCBI Logo'](Data-NCBI.png 'NCBI Logo')](https://www.ncbi.nlm.nih.gov/bioproject/730823)
 [!['UCSC Logo'](Data-UCSC.png 'UCSC Logo')](http://hprc-browser.ucsc.edu/)
 [!['Ensembl Logo'](Data-ensembl.png 'Ensembl Logo')](https://projects.ensembl.org/hprc/)
-[!['GitHub Logo'](Data-Github.png 'GitHub Logo')](https://github.com/human-pangenomics/HPP_Year1_Data_Freeze_v1.0)
+[!['GitHub Logo'](Data-Github.png 'GitHub Logo')](https://github.com/human-pangenomics/hprc_intermediate_assembly/tree/main/data_tables)
 {{< /column >}}
 {{< column >}}
 
-### Assemblies
+### Assemblies Release2
 
 Assemblies produced with Hifiasm are available alongside annotations for the assemblies. If you would like to download the files, data indexes are available in the GitHub repository.
 {{< /column >}}
@@ -87,7 +88,7 @@ Assemblies produced with Hifiasm are available alongside annotations for the ass
 {{< columns count=2 >}}
 {{< column >}}
 
-### Pangenomes
+### Pangenomes Release1
 
 The HPRC has released pangenomes from its year 1 data. Currently there are three main approaches:
 
