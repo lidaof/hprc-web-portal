@@ -10,10 +10,6 @@ showHeader: false
 Please refer to [NCBI PubMed Collection](https://pubmed.ncbi.nlm.nih.gov/collections/64481421/?sort=pubdate) and [the HPRC bioRxiv channel](https://connect.biorxiv.org/relate/content/215) for the full collection of HPRC publications.
 
 
-
-Please refer to the HPRC data use policy and [publication protocol](/publication_protocol).  
-
-
 ## Human Pangenome Reference Acknowledgement Statement
 
 
