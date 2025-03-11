@@ -25,9 +25,9 @@ Integrating the Reference Pangenome with Biobank-Scale Data for Complex Trait An
 
 Tools for Comprehensive Variant Characterization Using the Pangenome: [**U01HG013748-01**](https://reporter.nih.gov/search/n5tqw8c_0Ueqk5SMVueslw/project-details/10976565)
 
-Tooling for Accurately Studying the Epigenome Along the Human Pangenome Reference: [**U01HG013744-01**](https://reporter.nih.gov/search/-b_RoCPZZE2Y3VPOa26e3w/project-details/10976065)
+Tooling for Accurately Studying the Epigenome Along the Human Pangenome Reference: [**U01HG013744-01**](https://reporter.nih.gov/search/-b_RoCPZZE2Y3VPOa26e3w/project-details/10976065) <br>
 
-**Phase 1** of the Human Genome Reference Program included three Genome Reference Representation Awards:
+**Phase 1** (expired) of the Human Genome Reference Program included three Genome Reference Representation Awards:
 
 The construction and utility of reference pan-genome graphs [1U01HG010961](https://reporter.nih.gov/search/5roK6KHDwkqyenKilhf4JA/project-details/9904877)
 
