@@ -13,9 +13,13 @@ showHeader: false
 
 #### Working Group Leads:
 
+{{< left2 img="KarenMiga.png" >}}
 Karen Miga, University of California, Santa Cruz
+{{< /left2 >}}
 
+{{< left2 img="EimearKenny.png" >}}
 Eimear Kenny, Icahn School of Medicine at Mount Sinai
+{{< /left2 >}}
 
 ### Technology and Production
 
@@ -23,9 +27,13 @@ Eimear Kenny, Icahn School of Medicine at Mount Sinai
 
 #### Working Group Leads:
 
+{{< left2 img="KarenMiga.png" >}}
 Karen Miga, University of California, Santa Cruz
+{{< /left2 >}}
 
+{{< left2 img="BobFulton2.png" >}}
 Bob Fulton, Washington University
+{{< /left2 >}}
 
 ### T2T Assembly
 
@@ -33,11 +41,17 @@ Bob Fulton, Washington University
 
 #### Working Group Leads:
 
+{{< left2 img="EvanEichler.png" >}}
 Evan Eichler, University of Washington 
+{{< /left2 >}}
 
+{{< left2 img="KarenMiga.png" >}}
 Karen Miga, University of California, Santa Cruz
+{{< /left2 >}}
 
+{{< left2 img="AdamPhillippy2.png" >}}
 Adam Phillippy, National Human Genome Research Institute
+{{< /left2 >}}
 
 ### Pangenomes
 
@@ -45,11 +59,17 @@ Adam Phillippy, National Human Genome Research Institute
 
 #### Working Group Leads:
 
+{{< left2 img="IraHall.png" >}}
 Ira Hall, Yale University 
+{{< /left2 >}}
 
+{{< left2 img="HengLi.png" >}}
 Heng Li, Dana-Farber Cancer Institute
+{{< /left2 >}}
 
+{{< left2 img="BenedictPaten.png" >}}
 Benedict Paten, University of California, Santa Cruz
+{{< /left2 >}}
 
 ### Resource Improvement and Maintenance
 
@@ -57,11 +77,17 @@ Benedict Paten, University of California, Santa Cruz
 
 #### Working Group Leads:
 
+{{< left2 img="TinaLindsay2.png" >}}
 Tina Lindsay, Washington University
+{{< /left2 >}}
 
+{{< left2 img="ValerieSchneider.png" >}}
 Valerie Schneider, National Center for Biotechnology Information
+{{< /left2 >}}
 
+{{< left2 img="FergalMartin.png" >}}
 Fergal Martin, EMBL-EBI
+{{< /left2 >}}
 
 ### Resource Sharing and Outreach
 
@@ -69,7 +95,9 @@ Fergal Martin, EMBL-EBI
 
 #### Working Group Leads:
 
+{{< left2 img="HeatherLawson.png" >}}
 Heather Lawson, Washington University
+{{< /left2 >}}
 
 ### ELSI
 
@@ -77,11 +105,17 @@ Heather Lawson, Washington University
 
 #### Working Group Leads:
 
+{{< left2 img="BobCook-Deegan2.png" >}}
 Bob Cook-Deegan, Arizona State University
+{{< /left2 >}}
 
+{{< left2 img="MaliaFullerton.png" >}}
 Malia Fullerton, University of Washington
+{{< /left2 >}}
 
+{{< left2 img="Nanibaa_Garrison.png" >}}
 Nanibaa’ Garrison, University of Califonia, Los Angeles
+{{< /left2 >}}
 
 ### International Outreach
 
@@ -89,9 +123,13 @@ Nanibaa’ Garrison, University of Califonia, Los Angeles
 
 ### Working Group Leads
 
+{{< left2 img="HeatherLawson.png" >}}
 Heather Lawson, Washington University
+{{< /left2 >}}
 
+{{< left2 img="AngelaPage2.png" >}}
 Angela Page, GA4GH at Broad Institute of MIT and Harvard
+{{< /left2 >}}
 
 ### Publication
 
@@ -99,6 +137,10 @@ Angela Page, GA4GH at Broad Institute of MIT and Harvard
 
 #### Working Group Leads:
 
+{{< left2 img="BenedictPaten.png" >}}
 Benedict Paten, University of California, Santa Cruz
+{{< /left2 >}}
 
+{{< left2 img="TingWang2.png" >}}
 Ting Wang, Washington University
+{{< /left2 >}}

@@ -306,10 +306,6 @@ a {
     background-color: #4f82ef;
 }
 
-table {
-    font-size: 1.2rem;
-}
-
 h3 {
     color: var(--primary-400);
     font-weight: 800;

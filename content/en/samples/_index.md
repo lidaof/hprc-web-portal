@@ -9,7 +9,7 @@ showHeader: false
 
 <div class="release">
 
-{{< img src="popsampbanner.png" >}}
+{{< img src="popsampbanner2.png" >}}
 
 A comprehensive collection of diverse and highly accurate human reference genomes is critical to a complete understanding of human genetics. Samples in this project will be selected to improve the representation of human genetic variation, which will provide a richer and more complete human genomic reference resource. A richer human reference will improve our ability to predict, diagnose and treat disease.
 

@@ -1,0 +1,11 @@
+{{ $img := .Get "img" | default (.Get ' ') }}
+{{ $alt := .Get "alt" | default "" }}
+
+<div style="display: flex; gap: 1rem;margin-bottom: 1ch;">
+    <div style="width: 240px;">
+        <img src="{{$img}}" alt="{{$alt}}">
+    </div>
+    <div style="display: flex; align-items: center; font-weight: 800;">
+        {{ .Inner | markdownify  }}
+    </div>
+</div>

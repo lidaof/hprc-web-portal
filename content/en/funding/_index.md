@@ -7,7 +7,7 @@ showHeader: false
 
 ## Funding
 
-For **Phase 2** of the [Human Genome Reference Program](https://www.genome.gov/Funded-Programs-Projects/Human-Genome-Reference-Program), three components were funded. They are collectively called the Human Pangenome Reference Consortium (HPRC).  These include:
+For {{< bluespan >}}**Phase 2**{{< /bluespan >}} of the [Human Genome Reference Program](https://www.genome.gov/Funded-Programs-Projects/Human-Genome-Reference-Program), three components were funded. They are collectively called the Human Pangenome Reference Consortium (HPRC).  These include:
 
 1. A Human Genome Reference Center (HGRC; [**RFA-HG-23-025**](https://grants.nih.gov/grants/guide/rfa-files/RFA-HG-23-025.html))  
 2. High Quality Human Reference Genomes (HGRQ; [**RFA-HG-23-024**](https://grants.nih.gov/grants/guide/rfa-files/RFA-HG-23-024.html))  
@@ -27,7 +27,7 @@ Tools for Comprehensive Variant Characterization Using the Pangenome: [**U01HG01
 
 Tooling for Accurately Studying the Epigenome Along the Human Pangenome Reference: [**U01HG013744-01**](https://reporter.nih.gov/search/-b_RoCPZZE2Y3VPOa26e3w/project-details/10976065) <br>
 
-**Phase 1** (expired) of the Human Genome Reference Program included three Genome Reference Representation Awards:
+{{< bluespan >}}**Phase 1**{{< /bluespan >}} (expired) of the Human Genome Reference Program included three Genome Reference Representation Awards:
 
 The construction and utility of reference pan-genome graphs [1U01HG010961](https://reporter.nih.gov/search/5roK6KHDwkqyenKilhf4JA/project-details/9904877)
 

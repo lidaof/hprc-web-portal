@@ -11,7 +11,7 @@ For general or other questions, please contact HPCR Administration: <hprcadmin@g
 {{< /bluebox >}}
 
 
-{{< left img="TingWang.png" alt="TingWang" >}}
+{{< left img="/working-groups/TingWang2.png" alt="TingWang" >}}
 #### The Human Pangenome Reference Consortium Coordination Center
 
 Contact PI – Ting Wang
@@ -99,6 +99,10 @@ Award Number - 1U01HG013744-01
 
 {{< /left >}}
 {{< br >}}
+
+{{< bluebox >}}
+Expired Genome Reference Representation Awards
+{{< /bluebox >}}
 
 {{< left img="HengLi.png" alt="HengLi" >}}
 
