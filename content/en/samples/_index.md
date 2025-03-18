@@ -19,11 +19,9 @@ Initial samples included in the project are from the 1000 genomes (1KG) collecti
 
 {{< img src="Samples-1.png" >}}
 
-### Phase 2 Sampling
-
 ### Future Sampling
 
-Genomes generated from 1000 Genomes cell lines alone are insufficient to capture the full extent of genomic diversity among humans. To ensure that we maximize our representation of variant diversity, we are broadening our efforts to recruit new participants into this study. Currently, we have established a consent and protocol to conduct prospective recruitment of participants from the Mount Sinai Health System in New York City. Future efforts may expand prospective recruitment to the HPRC at additional locations and institutions.
+Genomes generated from 1000 Genomes cell lines alone are insufficient to capture the full extent of genomic diversity among humans. To ensure that we maximize our representation of variant diversity, we are broadening our efforts to recruit new participants into this study. Currently, we have established a [consent](https://humanpangenome.org/consent/) and protocol to conduct [prospective recruitment](https://hprc-participant.org/) of participants from the Mount Sinai Health System in New York City. Future efforts may expand prospective recruitment to the HPRC at additional locations and institutions.
 
 {{< img src="blankmap.png" >}}
 
