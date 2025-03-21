@@ -121,7 +121,7 @@ Nanibaa’ Garrison, University of Califonia, Los Angeles
 
 *Leads activities of the International Human Pangenome Project, including community building and working with GA4GH workstreams.*
 
-### Working Group Leads
+#### Working Group Leads:
 
 {{< left2 img="HeatherLawson.png" >}}
 Heather Lawson, Washington University
