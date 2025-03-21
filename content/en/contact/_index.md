@@ -101,7 +101,7 @@ Award Number - 1U01HG013744-01
 {{< br >}}
 
 {{< bluebox >}}
-Completed Phase 1
+Completed Phase 1 Awards
 {{< /bluebox >}}
 
 {{< left img="HengLi.png" alt="HengLi" >}}
