@@ -101,7 +101,7 @@ Award Number - 1U01HG013744-01
 {{< br >}}
 
 {{< bluebox >}}
-Expired Genome Reference Representation Awards
+Completed Phase 1
 {{< /bluebox >}}
 
 {{< left img="HengLi.png" alt="HengLi" >}}
