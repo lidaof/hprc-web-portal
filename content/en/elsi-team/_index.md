@@ -15,6 +15,14 @@ Dr. Robert Cook-Deegan is a professor in the School for the Future of Innovation
 
 {{< /left >}}
 {{< br >}}
+{{< left img="HeatherLawson.png" alt="HeatherLawson" >}}
+
+#### Heather Lawson, PhD
+
+Dr. Lawson received her PhD in Molecular Anthropology from The Pennsylvania State University under the mentorship of Dr Kenneth Weiss. She went on to do a postdoc and Washington University with Dr James Cheverud, where her research focused on identifying parent-of-origin effects associated with variation in complex traits. She accepted a faculty position in the Genetics Department at Washington University in 2015, where she continued to study the molecular mechanisms underlying parent-of-origin effects. Over the course of her research, she became more and more interested in ELSI issues, particularly issues of data sovereignty and informed consent. She is also interested in scientific outreach and dissemination of science to the general public. She joined the HPRC as a part of the Coordination Center at Washington University. She leads the consortium's Outreach and is a champion of the international Human Pangenome Project, which is a GA4GH Driver Project. Her work with the HPRC ELSI Team is focused on data sovereignty and harmonizing consent documents for pangenome reference resource studies.
+
+{{< /left >}}
+{{< br >}}
 {{< left img="JonathanLoTiempo.png" alt="JonathanLoTiempo" >}}
 
 #### Jonathan LoTiempo, PhD
@@ -35,7 +43,7 @@ Katherine is a senior genetic counselor at the Icahn School of Medicine at Mount
 
 #### Malia Fullerton, PhD
 
-Stephanie Malia Fullerton, DPhil, is Professor of Bioethics and Humanities at the University of Washington School of Medicine. She received a doctorate in Human Population Genetics from the University of Oxford and later re-trained in Ethical, Legal, and Social Implications (ELSI) research with a fellowship from the NIH National Human Genome Research Institute. Dr. Fullerton serves as co-lead of the HPRC ELSI Working group and contributes to a range of additional empirical projects focused on clinical translational genomics including in collaboration with the Electronic Medical Records and Genomics (eMERGE) Network and the Polygenic Risk Methods in Diverse Populations (PRIMED) Consortium.
+Stephanie Malia Fullerton, DPhil, is a Professor of Bioethics and Humanities at the University of Washington School of Medicine. She received a doctorate in Human Population Genetics from the University of Oxford and later re-trained in Ethical, Legal, and Social Implications (ELSI) research with a fellowship from the NIH National Human Genome Research Institute. Dr. Fullerton serves as co-lead of the HPRC ELSI Working group and contributes to a range of additional empirical projects focused on clinical translational genomics including in collaboration with the Electronic Medical Records and Genomics (eMERGE) Network and the Polygenic Risk Methods in Diverse Populations (PRIMED) Consortium.
 
 {{< /left >}}
 {{< br >}}
@@ -75,7 +83,7 @@ Shawneequa Callier is an Associate Professor with tenure at the George Washingto
 
 #### Laura Scheinfeldt, PhD
 
-Laura Scheinfeldt is the principal investigator of the National Institute of Neurological Disorders and Stroke (NINDS) Human Genetics Resource Center and the NHGRI Sample Repository for Human Genetic Research at the Coriell Institute for Medical Research. She earned her PhD in Anthropology at Temple University and completed postdoctoral research training in the Department of Human Genetics at the Children's Hospital of Philadelphia and in the Department of Genome Sciences at the University of Washington. Her research focuses on human genetic variation that impacts drug response, health and disease.
+Laura Scheinfeldt is the principal investigator of the National Institute of Neurological Disorders and Stroke (NINDS) Human Genetics Resource Center and the NHGRI Sample Repository for Human Genetic Research at the Coriell Institute for Medical Research. She earned her PhD in Anthropology at Temple University and completed postdoctoral research training in the Department of Human Genetics at the Children's Hospital of Philadelphia and in the Department of Genome Sciences at the University of Washington. Her research focuses on human genetic variation that impacts drug response, health, and disease.
 
 {{< /left >}}
 {{< br >}}
