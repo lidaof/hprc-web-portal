@@ -310,3 +310,17 @@ h3 {
     color: var(--primary-400);
     font-weight: 800;
 }
+
+h4 {
+    color: var(--primary-400);
+}
+
+#protocol {
+    margin: auto;
+    display: block;
+    text-align: center;
+    font-size: 2rem;
+    margin-bottom: 1ch;
+    color: white;
+    background-color: var(--primary-400);
+}

@@ -7,11 +7,11 @@ showHeader: false
 
 ## Technology
 
-The HPRC generates sequencing data, creates assemblies and pangenomes(see figure below).
+<!-- The HPRC generates sequencing data, creates assemblies and pangenomes(see figure below).
 
 {{< img src="Technology-1.png" >}}
 
-<div class="seq-tech">
+<div class="seq-tech"> -->
 
 ### Sequencing Data Production
 
@@ -31,6 +31,8 @@ The HPRC generates sequencing data, creates assemblies and pangenomes(see figure
 {{< /columns >}}
 </div>
 <div class="tech">
+
+<div id="protocol">Protocols</div>
 
 ### Assembly Generation
 
@@ -56,6 +58,8 @@ The HPRC utilizes NIH’s AnVIL platform to generate assemblies in a open, repro
 [!['Dockstore Logo'](Tech-DataSource-Dockstore.png 'Dockstore Logo')](https://dockstore.org/organizations/HumanPangenome)
 {{< /column >}}
 {{< /columns >}}
+
+<hr />
 
 ### Pangenome Pipelines
 

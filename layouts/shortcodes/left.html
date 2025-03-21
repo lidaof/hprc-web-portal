@@ -1,7 +1,7 @@
 {{ $img := .Get "img" | default (.Get ' ') }}
 {{ $alt := .Get "alt" | default "" }}
 
-<div style="display: flex; gap: 1rem;">
+<div style="display: flex; gap: 1rem; align-items: center;">
     <div style="width: 360px;">
         <img src="{{$img}}" alt="{{$alt}}">
     </div>

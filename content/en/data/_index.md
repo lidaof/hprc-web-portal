@@ -7,18 +7,11 @@ showHeader: false
 
 ## Data
 
-{{< columns count=2 >}}
-{{< column >}}
-{{< img src="Data-1.png" >}}
-{{< /column >}}
-{{< column >}}
-
 The Human Pangenome Reference Consortium generates raw sequencing data, high-quality assemblies, and pangenomes. All data generated is open, publicly accessible, and can be downloaded or used in AWS, GCP, AnVIL, or locally.
 
-{{< /column >}}
-{{< /columns >}}
+{{< img src="Data-1.png" >}}
 
-We have two “hot off the presses” data sets available at the links below for the HPRC project. These data sets are both using cutting edge technologies for evaluation for future mainstream use. A PacBio Revio sequence run performed at PacBio using an HPRC style library provided by Washington University (large discreet size fraction aiming for ~20kb), as well as an Oxford Nanopore duplex read data set generated at UCSC in close collaboration with Oxford Nanopore.
+<!-- We have two “hot off the presses” data sets available at the links below for the HPRC project. These data sets are both using cutting edge technologies for evaluation for future mainstream use. A PacBio Revio sequence run performed at PacBio using an HPRC style library provided by Washington University (large discreet size fraction aiming for ~20kb), as well as an Oxford Nanopore duplex read data set generated at UCSC in close collaboration with Oxford Nanopore.
 
 {{< columns count=2 >}}
 {{< column >}}
@@ -38,7 +31,7 @@ The HPRC has publicly released a dataset for Oxford Nanopore's new Duplex techno
 {{< column >}}
 {{< img src="ONT-logo.png" >}}
 {{< /column >}}
-{{< /columns >}}
+{{< /columns >}} -->
 
 ### Data Availability
 
@@ -68,8 +61,14 @@ In addition, we include high coverage Illumina data produced by the NYGC for par
 [!['NCBI Logo'](Data-NCBI.png 'NCBI Logo')](https://www.ncbi.nlm.nih.gov/bioproject/730823)
 {{< /column >}}
 {{< /columns >}}
-
+<hr />
 {{< columns count=2 >}}
+{{< column >}}
+### Assemblies Release2
+
+Assemblies produced with Hifiasm are available alongside annotations for the assemblies. If you would like to download the files, data indexes are available in the GitHub repository.
+{{< /column >}}
+
 {{< column >}}
 [!['AnVil Logo'](Data-AnVil.png 'AnVil Logo')](https://anvil.terra.bio/)
 [!['NCBI Logo'](Data-NCBI.png 'NCBI Logo')](https://www.ncbi.nlm.nih.gov/bioproject/730823)
@@ -77,14 +76,8 @@ In addition, we include high coverage Illumina data produced by the NYGC for par
 [!['Ensembl Logo'](Data-ensembl.png 'Ensembl Logo')](https://projects.ensembl.org/hprc/)
 [!['GitHub Logo'](Data-Github.png 'GitHub Logo')](https://github.com/human-pangenomics/hprc_intermediate_assembly/tree/main/data_tables)
 {{< /column >}}
-{{< column >}}
-
-### Assemblies Release2
-
-Assemblies produced with Hifiasm are available alongside annotations for the assemblies. If you would like to download the files, data indexes are available in the GitHub repository.
-{{< /column >}}
 {{< /columns >}}
-
+<hr />
 {{< columns count=2 >}}
 {{< column >}}
 

@@ -33,7 +33,7 @@ The HPRC will build a pangenome reference resource that will better serve humani
 
 ### Collaboration Map
 
-{{< img src="/samples/CollaboratorMapv2.gif" >}}
+{{< img src="/samples/CollaboratorsMapv3.png" >}}
 
 
 </div>
