@@ -27,7 +27,7 @@ Tools for Comprehensive Variant Characterization Using the Pangenome: [**U01HG01
 
 Tooling for Accurately Studying the Epigenome Along the Human Pangenome Reference: [**U01HG013744-01**](https://reporter.nih.gov/search/-b_RoCPZZE2Y3VPOa26e3w/project-details/10976065)
 
-
+**Completed Phase 1 Awards:**
 
 {{< bluespan >}}**Phase 1**{{< /bluespan >}} of the Human Genome Reference Program included three Genome Reference Representation Awards:
 
