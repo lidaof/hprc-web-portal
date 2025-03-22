@@ -10,8 +10,9 @@ showHeader: false
 <!-- The HPRC generates sequencing data, creates assemblies and pangenomes(see figure below).
 
 {{< img src="Technology-1.png" >}}
+ -->
 
-<div class="seq-tech"> -->
+<div class="seq-tech">
 
 ### Sequencing Data Production
 
@@ -30,6 +31,7 @@ showHeader: false
 {{< /column >}}
 {{< /columns >}}
 </div>
+
 <div class="tech">
 
 <div id="protocol">Protocols</div>
