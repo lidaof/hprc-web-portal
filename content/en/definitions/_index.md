@@ -7,6 +7,8 @@ showHeader: false
 
 ## Definitions
 
+Below are definitions as used by the Human Pangenome Reference Consortium.
+
 {{< bluespan >}}Allelic variation:{{< /bluespan >}} Heterozygosity at a specific genomic location.
 
 {{< bluespan >}}Genomic variation:{{< /bluespan >}} Differences in DNA sequences among individuals.
