@@ -11,15 +11,16 @@ showHeader: false
 
 #### Robert Cook-Deegan, PhD
 
-Dr. Robert Cook-Deegan is a professor in the School for the Future of Innovation in Society, and with the Consortium for Science, Policy and Outcomes at Arizona State University. He founded and directed the Duke Center for Genome Ethics, Law and Policy (2002-2016). Prior to Duke, he was with the National Academies of Science, Engineering and Medicine (1991-2002); National Center for Human Genome Research (1989-1990); and the congressional Office of Technology Assessment (1982-1988). His research interests include science policy, health policy, biomedical research, cancer, and intellectual property. He is the author of "The Gene Wars: Science, Politics, and the Human Genome" and more than 350 other publications.
+Dr. Robert Cook-Deegan is a professor in the School for the Future of Innovation in Society, and with the Consortium for Science, Policy and Outcomes at Arizona State University. He founded and directed the Duke Center for Genome Ethics, Law and Policy (2002-2016). Prior to Duke, he was with the National Academies of Science, Engineering and Medicine (1991-2002); National Center for Human Genome Research (1989-1990); and the Congressional Office of Technology Assessment (1982-1988). His research interests include science policy, health policy, biomedical research, cancer, and intellectual property. He is the author of "The Gene Wars: Science, Politics, and the Human Genome" and more than 350 other publications.
 
 {{< /left >}}
 {{< br >}}
-{{< left img="HeatherLawson.png" alt="HeatherLawson" >}}
 
-#### Heather Lawson, PhD
+{{< left img="MaliaFullerton.png" alt="MaliaFullerton" >}}
 
-Dr. Lawson received her PhD in Molecular Anthropology from The Pennsylvania State University under the mentorship of Dr Kenneth Weiss. She went on to do a postdoc and Washington University with Dr James Cheverud, where her research focused on identifying parent-of-origin effects associated with variation in complex traits. She accepted a faculty position in the Genetics Department at Washington University in 2015, where she continued to study the molecular mechanisms underlying parent-of-origin effects. Over the course of her research, she became more and more interested in ELSI issues, particularly issues of data sovereignty and informed consent. She is also interested in scientific outreach and dissemination of science to the general public. She joined the HPRC as a part of the Coordination Center at Washington University. She leads the consortium's Outreach and is a champion of the international Human Pangenome Project, which is a GA4GH Driver Project. Her work with the HPRC ELSI Team is focused on data sovereignty and harmonizing consent documents for pangenome reference resource studies.
+#### Malia Fullerton, PhD
+
+Stephanie Malia Fullerton, DPhil, is a Professor of Bioethics and Humanities at the University of Washington School of Medicine. She received a doctorate in Human Population Genetics from the University of Oxford and later re-trained in Ethical, Legal, and Social Implications (ELSI) research with a fellowship from the NIH National Human Genome Research Institute. Dr. Fullerton serves as co-lead of the HPRC ELSI Working group and contributes to a range of additional empirical projects focused on clinical translational genomics including in collaboration with the Electronic Medical Records and Genomics (eMERGE) Network and the Polygenic Risk Methods in Diverse Populations (PRIMED) Consortium.
 
 {{< /left >}}
 {{< br >}}
@@ -39,11 +40,12 @@ Katherine is a senior genetic counselor at the Icahn School of Medicine at Mount
 
 {{< /left >}}
 {{< br >}}
-{{< left img="MaliaFullerton.png" alt="MaliaFullerton" >}}
 
-#### Malia Fullerton, PhD
+{{< left img="HeatherLawson.png" alt="HeatherLawson" >}}
 
-Stephanie Malia Fullerton, DPhil, is a Professor of Bioethics and Humanities at the University of Washington School of Medicine. She received a doctorate in Human Population Genetics from the University of Oxford and later re-trained in Ethical, Legal, and Social Implications (ELSI) research with a fellowship from the NIH National Human Genome Research Institute. Dr. Fullerton serves as co-lead of the HPRC ELSI Working group and contributes to a range of additional empirical projects focused on clinical translational genomics including in collaboration with the Electronic Medical Records and Genomics (eMERGE) Network and the Polygenic Risk Methods in Diverse Populations (PRIMED) Consortium.
+#### Heather Lawson, PhD
+
+Dr. Lawson received her PhD in Molecular Anthropology from The Pennsylvania State University under the mentorship of Dr Kenneth Weiss. She went on to do a postdoc at Washington University with Dr James Cheverud, where her research focused on identifying parent-of-origin effects associated with variation in complex traits. She accepted a faculty position in the Genetics Department at Washington University in 2015, where she continued to study the molecular mechanisms underlying parent-of-origin effects. Over the course of her research, she became more and more interested in ELSI issues, particularly issues of data sovereignty and informed consent. She is also interested in scientific outreach and dissemination of science to the general public. She joined the HPRC as a part of the Coordination Center at Washington University. She leads the consortium's Outreach and is a champion of the international Human Pangenome Project, which is a GA4GH Driver Project. Her work with the HPRC ELSI Team is focused on data sovereignty and harmonizing consent documents for pangenome reference resource studies.
 
 {{< /left >}}
 {{< br >}}
