@@ -17,7 +17,7 @@ showHeader: false
 Karen Miga, University of California, Santa Cruz
 {{< /left2 >}}
 
-{{< left2 img="EimearKenny.png" >}}
+{{< left2 img="EimearKenny2.png" >}}
 Eimear Kenny, Icahn School of Medicine at Mount Sinai
 {{< /left2 >}}
 
