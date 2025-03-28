@@ -11,7 +11,7 @@ showHeader: false
 
 #### Robert Cook-Deegan, PhD
 
-Dr. Robert Cook-Deegan is a professor in the School for the Future of Innovation in Society, and with the Consortium for Science, Policy and Outcomes at Arizona State University. He founded and directed the Duke Center for Genome Ethics, Law and Policy (2002-2016). Prior to Duke, he was with the National Academies of Science, Engineering and Medicine (1991-2002); National Center for Human Genome Research (1989-1990); and the Congressional Office of Technology Assessment (1982-1988). His research interests include science policy, health policy, biomedical research, cancer, and intellectual property. He is the author of "The Gene Wars: Science, Politics, and the Human Genome" and more than 350 other publications.
+Dr. Robert Cook-Deegan is a professor in the School for the Future of Innovation in Society and with the Consortium for Science, Policy and Outcomes at Arizona State University. He founded and directed the Duke Center for Genome Ethics, Law and Policy (2002-2016). Prior to Duke, he was with the National Academies of Science, Engineering and Medicine (1991-2002); National Center for Human Genome Research (1989-1990); and the Congressional Office of Technology Assessment (1982-1988). His research interests include science policy, health policy, biomedical research, cancer, and intellectual property. He is the author of "The Gene Wars: Science, Politics, and the Human Genome" and more than 350 other publications.
 
 {{< /left >}}
 {{< br >}}
@@ -20,7 +20,7 @@ Dr. Robert Cook-Deegan is a professor in the School for the Future of Innovation
 
 #### Malia Fullerton, PhD
 
-Stephanie Malia Fullerton, DPhil, is a Professor of Bioethics and Humanities at the University of Washington School of Medicine. She received a doctorate in Human Population Genetics from the University of Oxford and later re-trained in Ethical, Legal, and Social Implications (ELSI) research with a fellowship from the NIH National Human Genome Research Institute. Dr. Fullerton serves as co-lead of the HPRC ELSI Working group and contributes to a range of additional empirical projects focused on clinical translational genomics including in collaboration with the Electronic Medical Records and Genomics (eMERGE) Network and the Polygenic Risk Methods in Diverse Populations (PRIMED) Consortium.
+Stephanie Malia Fullerton, DPhil, is a Professor of Bioethics and Humanities at the University of Washington School of Medicine. She received a doctorate in Human Population Genetics from the University of Oxford and later re-trained in Ethical, Legal, and Social Implications (ELSI) research with a fellowship from the NIH National Human Genome Research Institute. Dr. Fullerton serves as co-lead of the HPRC ELSI Working group and contributes to a range of additional empirical projects focused on clinical translational genomics, including in collaboration with the Electronic Medical Records and Genomics (eMERGE) Network and the Polygenic Risk Methods in Diverse Populations (PRIMED) Consortium.
 
 {{< /left >}}
 {{< br >}}
@@ -28,7 +28,7 @@ Stephanie Malia Fullerton, DPhil, is a Professor of Bioethics and Humanities at 
 
 #### Jonathan LoTiempo, PhD
 
-Dr. Jonathan LoTempio is an NHGRI T32 postdoctoral fellow at the University of Pennsylvania where he studies genomic data sharing and the bioethics of research with human data. He holds a PhD in bioinformatics granted for his dissertation titled Genomics as a global science: production, use, and sharing of genomic data which was conducted in collaboration with scientists in the USA and Democratic Republic of the Congo. As a Fulbright scholar, he has worked on human genome assembly, bioethics, and science diplomacy in the EU (Austria, Belgium, France), Scotland, and Switzerland.
+Dr. Jonathan LoTempio is an NHGRI T32 postdoctoral fellow at the University of Pennsylvania, where he studies genomic data sharing and the bioethics of research with human data. He holds a PhD in bioinformatics granted for his dissertation titled Genomics as a global science: production, use, and sharing of genomic data, which was conducted in collaboration with scientists in the USA and the Democratic Republic of the Congo. As a Fulbright scholar, he has worked on human genome assembly, bioethics, and science diplomacy in the EU (Austria, Belgium, France), Scotland, and Switzerland.
 
 {{< /left >}}
 {{< br >}}
@@ -45,7 +45,7 @@ Katherine is a senior genetic counselor at the Icahn School of Medicine at Mount
 
 #### Heather Lawson, PhD
 
-Dr. Lawson received her PhD in Molecular Anthropology from The Pennsylvania State University under the mentorship of Dr Kenneth Weiss. She went on to do a postdoc at Washington University with Dr James Cheverud, where her research focused on identifying parent-of-origin effects associated with variation in complex traits. She accepted a faculty position in the Genetics Department at Washington University in 2015, where she continued to study the molecular mechanisms underlying parent-of-origin effects. Over the course of her research, she became more and more interested in ELSI issues, particularly issues of data sovereignty and informed consent. She is also interested in scientific outreach and dissemination of science to the general public. She joined the HPRC as a part of the Coordination Center at Washington University. She leads the consortium's Outreach and is a champion of the international Human Pangenome Project, which is a GA4GH Driver Project. Her work with the HPRC ELSI Team is focused on data sovereignty and harmonizing consent documents for pangenome reference resource studies.
+Dr. Lawson received her PhD in Molecular Anthropology from The Pennsylvania State University under the mentorship of Dr Kenneth Weiss. She went on to do a postdoc at Washington University with Dr James Cheverud, where her research focused on identifying parent-of-origin effects associated with variation in complex traits. She accepted a faculty position in the Genetics Department at Washington University in 2015, where she continued to study the molecular mechanisms underlying parent-of-origin effects. Over the course of her research, she became more and more interested in ELSI issues, particularly issues of data sovereignty and informed consent. She is also interested in scientific outreach and the dissemination of science to the general public. She joined the HPRC as a part of the Coordination Center at Washington University. She leads the consortium's Outreach and is a champion of the international Human Pangenome Project, which is a GA4GH Driver Project. Her work with the HPRC ELSI Team is focused on data sovereignty and harmonizing consent documents for pangenome reference resource studies.
 
 {{< /left >}}
 {{< br >}}
@@ -53,7 +53,7 @@ Dr. Lawson received her PhD in Molecular Anthropology from The Pennsylvania Stat
 
 #### Eimear Kenny, PhD
 
-Eimear Kenny, PhD, is the Founding Director of the Institute for Genomic Health, building resources for integrating genomic information and AI in routine clinical care, and supporting the sequencing and return of results to a diverse patients in the Mount Sinai Health System. She also the Founding Director of the Center for Translational Genomics and a Endowed Chair and Professor of Genomic Health, at the Icahn School of Medicine at Mount Sinai, working on computational and translational genomic research. She is Principal Investigator in many large NIH-funded international consortium focused on computational genomics and genomic medicine, including eMERGE, PRIMED, CSER, GSP, TOPMed, PAGE, and HPRC. She is a strong advocate for the importance of diversity in genomic research, is improving the accessibility of genetics to global populations, and has led multiple genetics-based clinical trials. Her exceptional contributions to the field earned her the prestigious Early Career Award from the American Society of Human Genetics in 2022. In addition to her academic and research roles, Dr. Kenny serves as a scientific advisor to various genomic medicine initiatives in government, non-profit, and industry sectors.
+Eimear Kenny, PhD, is the Founding Director of the Institute for Genomic Health, building resources for integrating genomic information and AI in routine clinical care, and supporting the sequencing and return of results to diverse patients in the Mount Sinai Health System. She is also the Founding Director of the Center for Translational Genomics and an Endowed Chair and Professor of Genomic Health at the Icahn School of Medicine at Mount Sinai, working on computational and translational genomic research. She is a Principal Investigator in many large NIH-funded international consortia focused on computational genomics and genomic medicine, including eMERGE, PRIMED, CSER, GSP, TOPMed, PAGE, and HPRC. She is a strong advocate for the importance of diversity in genomic research, is improving the accessibility of genetics to global populations, and has led multiple genetics-based clinical trials. Her exceptional contributions to the field earned her the prestigious Early Career Award from the American Society of Human Genetics in 2022. In addition to her academic and research roles, Dr. Kenny serves as a scientific advisor to various genomic medicine initiatives in government, non-profit, and industry sectors.
 
 {{< /left >}}
 {{< br >}}
@@ -61,7 +61,7 @@ Eimear Kenny, PhD, is the Founding Director of the Institute for Genomic Health,
 
 #### Joseph Yrachata, MS
 
-Joseph Yracheta is an Amerindigenous Scientist (P’urhepecha y Raramuri from Mexico) at the Native BioData Consortium which exists within the Cheyenne River Lakota Nation (Sioux) of South Dakota.  Mr. Yracheta has been a scientist since 1990 where he started as a bench biotechnician and worked across many biomedical disciplines. In 2014 he graduated from the UW-Seattle with a master’s of Pharmaceutics and Bioethics under Drs. Ken Thummel and Wylie Burke. He is currently finishing a DrPH in Environmental Health and Engineering from Johns-Hopkins under Drs. Ana Navas-Acien and Paul Locke. Mr. Yracheta is passionately working to achieve Indigenous Data Sovereignty by "wearing many research hats" of law, ethics, policy, genomics, omics, health outcomes, epidemiology, health care prevention/intervention and amelioration from systemic racism. Mr. Yracheta believes that ALL data and resources must be seen as unforeseen futures, where their value will constantly change. He feels this data must be secured for Indigenous economic and cultural sustainability.
+Joseph Yracheta is an Amerindigenous Scientist (P’urhepecha y Raramuri from Mexico) at the Native BioData Consortium, which exists within the Cheyenne River Lakota Nation (Sioux) of South Dakota.  Mr. Yracheta has been a scientist since 1990, when he started as a bench biotechnician and worked across many biomedical disciplines. In 2014, he graduated from the UW-Seattle with a master’s of Pharmaceutics and Bioethics under Drs. Ken Thummel and Wylie Burke. He is currently finishing a DrPH in Environmental Health and Engineering from Johns Hopkins under Drs. Ana Navas-Acien and Paul Locke. Mr. Yracheta is passionately working to achieve Indigenous Data Sovereignty by "wearing many research hats" of law, ethics, policy, genomics, omics, health outcomes, epidemiology, health care prevention/intervention, and amelioration from systemic racism. Mr. Yracheta believes that ALL data and resources must be seen as unforeseen futures, where their value will constantly change. He feels this data must be secured for Indigenous economic and cultural sustainability.
 
 {{< /left >}}
 {{< br >}}
@@ -69,7 +69,7 @@ Joseph Yracheta is an Amerindigenous Scientist (P’urhepecha y Raramuri from Me
 
 #### Mahsa Shabani, PhD
 
-Mahsa Shabani is associate professor in health privacy law and innovation at the faculty of law of University of Amsterdam. Her expertise revolves around data sharing, ELSI genomics, data access governance and biomedical research policy. She contributes to the HPRC ELSI working group by brining insights from international and European perspectives on regulation and policies around genomic data sharing and data privacy.
+Mahsa Shabani is an associate professor in health privacy law and innovation at the Faculty of Law of the University of Amsterdam. Her expertise revolves around data sharing, ELSI genomics, data access governance and biomedical research policy. She contributes to the HPRC ELSI working group by bringing insights from international and European perspectives on regulation and policies around genomic data sharing and data privacy.
 
 {{< /left >}}
 {{< br >}}
@@ -77,7 +77,7 @@ Mahsa Shabani is associate professor in health privacy law and innovation at the
 
 #### Shawneequa Callier, JD, MA
 
-Shawneequa Callier is an Associate Professor with tenure at the George Washington University School of Medicine and Health Sciences. She is engaged with the ELSI working group utilizing her expertise and experiences examining the ELSI of research involving emerging technologies and impacts on health equity.
+Shawneequa Callier is an Associate Professor with tenure at the George Washington University School of Medicine and Health Sciences. She is engaged with the ELSI working group, utilizing her expertise and experiences examining the ELSI of research involving emerging technologies.
 
 {{< /left >}}
 {{< br >}}
