@@ -49,7 +49,7 @@ Dr. Lawson received her PhD in Molecular Anthropology from The Pennsylvania Stat
 
 {{< /left >}}
 {{< br >}}
-{{< left img="EimearKenny.png" alt="EimearKenny" >}}
+{{< left img="EimearKenny2.png" alt="EimearKenny" >}}
 
 #### Eimear Kenny, PhD
 
