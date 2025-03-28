@@ -47,7 +47,7 @@ The HPRC has publicly released a dataset for Oxford Nanopore's new Duplex techno
 ### Sequencing Data Release2
 
 * PacBio HiFi (with modification calls)
-* PacBio Kinex
+* PacBio Kinnex
 * Oxford Nanopore Ultralong (with modification calls)
 * Omni-C/Hi-C
 
