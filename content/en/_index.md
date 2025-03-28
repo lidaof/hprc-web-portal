@@ -21,9 +21,9 @@ The Human Pangenome Reference Consortium (HPRC) is an NIH-funded project that ai
 
 ### We Need More Than One Human Reference Genome
 
-The human reference genome has served as the foundational resource for human genetics for the past 20 years, providing a centralized coordinate system that has been integral for genomic data sharing and analyses. However, the HG38 linear reference is a mosaic assembly composed of data from over 20 individuals, with a single individual representing around 70% of the sequence. This creates a “reference bias” in analyses, including in variant discovery, disease association studies, and reference-based mapping.
+The human reference genome has served as the foundational resource for human genetics for the past 20 years, providing a centralized coordinate system that has been integral for genomic data sharing and analyses. However, the GRCh38 linear reference is an incomplete, mosaic assembly composed of data from over 20 individuals, with a single individual representing around 70% of the sequence. This creates a “reference bias” in analyses, reducing the accuracy of downstream variant discovery, disease association studies, and reference-based mapping.
 
-The HPRC will build a pangenome reference resource that will better serve humanity by providing a graph-based, telomere-to-telomere representation that contains a more accurate and diverse depiction of global genomic variation.
+The HPRC is building a pangenome reference resource that addresses these deficiencies by providing a collection of validated, telomere-to-telomere assembled genomes, annotations, and alignments that better represent human genomic variation.
 
 ### Follow us on Bluesky
 
