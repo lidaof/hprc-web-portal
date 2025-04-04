@@ -62,6 +62,11 @@ en:
       url: "/code-of-conduct/"
       weight: 7
       parent: "about"
+    - identifier: "steering-committee"
+      name: "Steering Committee"
+      url: "/steering-committee/"
+      weight: 8
+      parent: "about"
     - identifier: "resources"
       name: "Resources"
       url: "#"

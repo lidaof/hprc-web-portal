@@ -89,3 +89,12 @@ Laura Scheinfeldt is the principal investigator of the National Institute of Neu
 
 {{< /left >}}
 {{< br >}}
+
+{{< left img="SadyePaez.png" alt="SadyePaez" >}}
+
+#### Sadye Paez, PhD
+
+Dr. Sadye Paez is a Senior Research Associate at The Rockefeller University and the founding/current Chair of the Justice, Equity, Diversity, and Inclusion Committee of the Earth BioGenome Project. She received her PhD in Biomechanics from the University of North Carolina at Chapel Hill. She is also a licensed physiotherapist and a former Maternal and Child Health LEND Fellow.
+
+{{< /left >}}
+{{< br >}}
