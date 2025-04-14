@@ -59,7 +59,7 @@ Eimear Kenny, PhD, is the Founding Director of the Institute for Genomic Health,
 {{< br >}}
 {{< left img="JosephYracheta.png" alt="JosephYracheta" >}}
 
-#### Joseph Yrachata, MS
+#### Joseph Yracheta, MS
 
 Joseph Yracheta is an Amerindigenous Scientist (P’urhepecha y Raramuri from Mexico) at the Native BioData Consortium, which exists within the Cheyenne River Lakota Nation (Sioux) of South Dakota.  Mr. Yracheta has been a scientist since 1990, when he started as a bench biotechnician and worked across many biomedical disciplines. In 2014, he graduated from the UW-Seattle with a master’s of Pharmaceutics and Bioethics under Drs. Ken Thummel and Wylie Burke. He is currently finishing a DrPH in Environmental Health and Engineering from Johns Hopkins under Drs. Ana Navas-Acien and Paul Locke. Mr. Yracheta is passionately working to achieve Indigenous Data Sovereignty by "wearing many research hats" of law, ethics, policy, genomics, omics, health outcomes, epidemiology, health care prevention/intervention, and amelioration from systemic racism. Mr. Yracheta believes that ALL data and resources must be seen as unforeseen futures, where their value will constantly change. He feels this data must be secured for Indigenous economic and cultural sustainability.
 
