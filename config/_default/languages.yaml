@@ -42,9 +42,9 @@ en:
       url: "/funding/"
       weight: 3
       parent: "about"
-    - identifier: "external-scientific-panel"
-      name: "External Scientific Panel"
-      url: "/external-scientific-panel/"
+    - identifier: "external-scientific-consultants"
+      name: "External Scientific Consultants"
+      url: "/external-scientific-consultants/"
       weight: 4
       parent: "about"
     - identifier: "associate-members"

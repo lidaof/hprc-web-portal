@@ -1,11 +1,11 @@
 ---
-title: External Scientific Panel
-description: External Scientific Panel
+title: External Scientific Consultants
+description: External Scientific Consultants
 showHeader: false
 
 ---
 
-## External Scientific Panel
+## External Scientific Consultants
 
 {{< people img="Pavel-Pevzner-PhD.png" name="Pavel Pevzner, PhD" link="https://bioalgorithms.ucsd.edu/" desc="Pavel Pevzner, PhD, is the Ronald R. Taylor Chair and Distinguished Professor of Computer Science and Engineering at University of California, San Diego, where he directs the NIH Center for Computational Mass Spectrometry. He holds Ph.D. from Moscow Institute of Physics and Technology in Russia. His research focuses on genome sequencing, immunoproteogenomics, antibiotics sequencing, comparative genomics and computational technologies. He is known for creating applications that allow scientists to solve biological problems. He was named Howard Hughes Medical Institute Professor in 2006. He was elected to the Association for Computing Machinery Fellow (2010) for “contribution to algorithms for genome rearrangements, DNA sequencing, and proteomics.”">}}
 {{< br >}}
