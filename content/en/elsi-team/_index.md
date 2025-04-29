@@ -15,7 +15,6 @@ Dr. Robert Cook-Deegan is a professor in the School for the Future of Innovation
 
 {{< /left >}}
 {{< br >}}
-
 {{< left img="MaliaFullerton.png" alt="MaliaFullerton" >}}
 
 #### Malia Fullerton, PhD
@@ -40,7 +39,6 @@ Katherine is a senior genetic counselor at the Icahn School of Medicine at Mount
 
 {{< /left >}}
 {{< br >}}
-
 {{< left img="HeatherLawson.png" alt="HeatherLawson" >}}
 
 #### Heather Lawson, PhD
@@ -89,7 +87,6 @@ Laura Scheinfeldt is the principal investigator of the National Institute of Neu
 
 {{< /left >}}
 {{< br >}}
-
 {{< left img="SadyePaez.png" alt="SadyePaez" >}}
 
 #### Sadye Paez, PhD
@@ -98,3 +95,18 @@ Dr. Sadye Paez is a Senior Research Associate at The Rockefeller University and 
 
 {{< /left >}}
 {{< br >}}
+{{< left img="Nanibaa'Garrisonv2.png" alt="Nanibaa'Garrison" >}}
+
+### Nanibaa' Garrison, PhD
+
+Nanibaa’ Garrison (Navajo), Ph.D., is an Associate Professor at the University of California, Los Angeles. She has appointments in the Institute for Society and Genetics, the Institute for Precision Health, and the Division of General Internal Medicine & Health Services Research. Her research focuses on the ethical, social, and cultural implications of genetic and genomic research in Indigenous communities. Using community-based research approaches, she engages with Tribal communities to develop policies and guidance regarding genetic and genomic research. She is also a member of the US Indigenous Data Sovereignty Network, the Navajo Nation Human Research Review Board, and co-director of the Precision Health and Genomics: Indigenous Mentoring and Ethics faculty program.
+
+{{< /left >}}
+{{< br >}}
+{{< left img="AnnMccartney.png" alt="AnnMccartney" >}}
+
+### Ann McCartney, PhD
+
+Ann completed her PhD in Bioinformatics and Molecular Evolution from Dublin City University. She then carried out a Genomics Aotearoa Postdoctoral Research Fellowship where she created culturally respectful genomic informatics pipelines for the project that were responsive to the needs and rights of Māori. She then carried out a second Visiting Postdoctoral Fellowship in the Genome Informatics Section at the NHGRI. During this time, she also conducted a detail in the NIH Office of Science Policy. Today, Ann is an Assistant Researcher in UCSC’s Genomics Institute where she works at the forefront of genomic sequencing technologies to develop more just genomic data infrastructures, policies, and frameworks for engagement. She is an elected member of the Executive Council of the Earth BioGenome Project, an elected vice-chair of the European Reference Genome Atlas, and co-chair of the Local Contexts Technical Implementation Working Group. In addition to this work, Ann has also acted as a “technical expert” for many international science policy initiatives, including the DSI Network and Native Biodata Consortium.
+
+{{< /left >}} {{< br >}}
