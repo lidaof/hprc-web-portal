@@ -113,7 +113,7 @@ Bob Cook-Deegan, Arizona State University
 Malia Fullerton, University of Washington
 {{< /left2 >}}
 
-{{< left2 img="Nanibaa_Garrison.png" >}}
+{{< left2 img="Nanibaa'Garrisonv2.png" >}}
 Nanibaa’ Garrison, University of Califonia, Los Angeles
 {{< /left2 >}}
 
