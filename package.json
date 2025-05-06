@@ -10,7 +10,9 @@
         "dev": "npm run dev:start",
         "dev:start": "hugo serve --logLevel info --configDir=config --themesDir=themes --buildDrafts --buildFuture --ignoreCache --disableFastRender --gc  --printI18nWarnings --printMemoryUsage --printPathWarnings --printUnusedTemplates --templateMetrics --templateMetricsHints",
         "dev:start:with-pagefind": "hugo --baseURL=/ --themesDir=../.. --theme=dot-org-hugo-theme && npm_config_yes=true npx pagefind --site 'public' --output-subdir '../static/pagefind' && npm run dev:start",
-        "dev:build": "hugo --themesDir=../.. --theme=dot-org-hugo-theme"
+        "dev:build": "hugo --themesDir=../.. --theme=dot-org-hugo-theme",
+        "deploy": "aws s3 sync public/ s3://humanpangenome.org/ --delete",
+        "postdeploy": "aws cloudfront create-invalidation --distribution-id EJ6Q4YDDF5EJ --paths '/*'"
     },
     "repository": {
         "type": "git",

@@ -7,7 +7,11 @@ showHeader: false
 
 ## Data
 
-The Human Pangenome Reference Consortium generates raw sequencing data, high-quality assemblies, and pangenomes. All data generated is open, publicly accessible, and can be downloaded or used in AWS, GCP, AnVIL, or locally.
+<div style="text-align: center">
+{{< button link="https://data.humanpangenome.org/" style="secondary" text="HPRC Data Explorer" >}}
+</div>
+
+The Human Pangenome Reference Consortium generates raw sequencing data, high-quality assemblies, and pangenomes. All data generated is open, publicly accessible, and can be downloaded or used in AWS, GCP, AnVIL, or locally. 
 
 <!-- We have two “hot off the presses” data sets available at the links below for the HPRC project. These data sets are both using cutting edge technologies for evaluation for future mainstream use. A PacBio Revio sequence run performed at PacBio using an HPRC style library provided by Washington University (large discreet size fraction aiming for ~20kb), as well as an Oxford Nanopore duplex read data set generated at UCSC in close collaboration with Oxford Nanopore.
 
@@ -49,6 +53,7 @@ The HPRC has publicly released a dataset for Oxford Nanopore's new Duplex techno
 * PacBio HiFi (with modification calls)
 * PacBio Kinnex
 * Oxford Nanopore Ultralong (with modification calls)
+* Dovetail
 * Omni-C/Hi-C
 
 In addition, we include high coverage Illumina data produced by the NYGC for parents and children (when available). If you would like to download the files, data indexes are available in the GitHub repository.

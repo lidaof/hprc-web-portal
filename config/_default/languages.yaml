@@ -101,10 +101,15 @@ en:
       url: "/consent/"
       weight: 6
       parent: "resources"
+    - identifier: "publication-policy"
+      name: "Publication Policy"
+      url: "/publication-policy/"
+      weight: 7
+      parent: "resources"
     - identifier: "participant"
       name: "HPRC Participant"
       url: "https://hprc-participant.org/"
-      weight: 7
+      weight: 8
       parent: "resources"
     # - identifier: "HPP"
     #   name: "HPP"
@@ -123,6 +128,11 @@ en:
       name: "ELSI team"
       url: "/elsi-team/"
       weight: 2
+      parent: "elsi"
+    - identifier: "data-use"
+      name: "Data Use"
+      url: "/data-use/"
+      weight: 3
       parent: "elsi"
     - identifier: "contact"
       name: "Contact"

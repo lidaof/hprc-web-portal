@@ -16,7 +16,7 @@ The Human Pangenome Reference Consortium (HPRC) is an NIH-funded project that ai
 <div class="home">
 
 <div style="text-align: center">
-{{< button link="#" style="secondary" text="HPRC Data Hub" >}}
+{{< button link="https://data.humanpangenome.org/" style="secondary" text="HPRC Data Explorer" >}}
 </div>
 
 ### We Need More Than One Human Reference Genome
