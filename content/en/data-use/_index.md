@@ -33,11 +33,12 @@ The following best practices are rooted in several documents on research ethics,
 **Best Practices:**
 
 1. **Scientific Publication:** If publishing a research finding that has utilized the Pangenome Reference, the HPRC expects users to include the relevant HPRC attribution statement (see below). In addition, publications arising from such research must not contain the personal data of any participant (see Definitions). Such publications should not contain information that could reasonably be expected to cause a participant, their families, their communities, or members of specific populations to experience harm or stigmatization.
-2. **For HPRC member users**: The recommended (internal) attribution statement:
+
+**For HPRC member users**: The recommended (internal) attribution statement:
 
 “We would like to acknowledge the National Genome Research Institute (NHGRI) for funding the following grants supporting the creation of the human pangenome reference: U41HG010972, U01HG010971, U01HG013760, U01HG013755, U01HG013748, U01HG013744, R01HG011274, and the Human Pangenome Reference Consortium (BioProject ID: PRJNA730823).”
 
-1. **For other users**: The recommended (external) attribution statement:
+**For other users**: The recommended (external) attribution statement:
 
 “We would like to acknowledge the Human Pangenome Reference Consortium (BioProject ID: PRJNA730823) and its funder, the National Human Genome Research Institute (NHGRI).”
 
@@ -45,19 +46,19 @@ This document will be updated to include the marker publication associated with 
 
 Please also see the [HPRC Publication Policy](/publication-policy).
 
-1. **Intellectual Property:** HPRC expects users not to sell all or part of the Pangenome Reference on any media. Users should not seek intellectual property protection in ways that would prevent or block access to, or use of, any element of the Pangenome Reference, or conclusions drawn directly from the Pangenome Reference. Users can elect to perform further research that would add value–intellectual, commercial, or both—to the Pangenome Reference and decide to obtain intellectual property rights on these downstream developments. Users should not implement licensing policies that obstruct further research or clinical use.
-2. **Re-identification and Harm:** HPRC expects users not to take any actions that could reasonably be expected to result in participant re-identification, including contacting or communicating with participants. Users should not use the data in a manner that is reasonably anticipated to cause participants, their families, their communities, or members of specific populations to experience harm or stigmatization. HPRC expects users to follow all applicable international, national, and local laws and regulations, including the laws, regulations, and customary norms of Indigenous Peoples.
-3. **Fairness and Beneficence:** Users of the Pangenome Reference should carefully consider how the benefits and burdens of using the data—as well as applications and outcomes from such use—are distributed. This is of particular concern for groups who have historically not received the benefits of genomic research.
-4. **Population Descriptors:** Users should refer to the NASEM report on “[Using Population Descriptors in Genetics and Genomics Researc](https://nap.nationalacademies.org/download/26902)h” to guide the use of population descriptions in HPRC datasets.
+2. **Intellectual Property:** HPRC expects users not to sell all or part of the Pangenome Reference on any media. Users should not seek intellectual property protection in ways that would prevent or block access to, or use of, any element of the Pangenome Reference, or conclusions drawn directly from the Pangenome Reference. Users can elect to perform further research that would add value–intellectual, commercial, or both—to the Pangenome Reference and decide to obtain intellectual property rights on these downstream developments. Users should not implement licensing policies that obstruct further research or clinical use.
+3. **Re-Identification and Harm:** HPRC expects users not to take any actions that could reasonably be expected to result in participant re-identification, including contacting or communicating with participants. Users should not use the data in a manner that is reasonably anticipated to cause participants, their families, their communities, or members of specific populations to experience harm or stigmatization. HPRC expects users to follow all applicable international, national, and local laws and regulations, including the laws, regulations, and customary norms of Indigenous Peoples.
+4. **Fairness and Beneficence:** Users of the Pangenome Reference should carefully consider how the benefits and burdens of using the data—as well as applications and outcomes from such use—are distributed. This is of particular concern for groups who have historically not received the benefits of genomic research.
+5. **Population Descriptors:** Users should refer to the NASEM report on “[Using Population Descriptors in Genetics and Genomics Research](https://nap.nationalacademies.org/download/26902)” to guide the use of population descriptions in HPRC datasets.
     - Users should use the report to determine whether population descriptors are essential in the research study. If population descriptors are needed, Users should avoid using continental-level labels unless carefully described and justified.
     - Users should also not attempt to assign an Indigenous population descriptor to any Pangenome Reference beyond what has already been assigned through community engagement for the 1000 Genomes Project samples.
     - When using 1000 Genomes or HapMap Project sample genomics data, users should follow the “[Guidelines for Referring to Populations](https://catalog.coriell.org/1/NHGRI/About/Guidelines-for-Referring-to-Populations)”.
-5. **Disclaimers:** The Pangenome Reference is provided as-is, without warranties or guarantees, express or implied, as to its fitness for a particular purpose, its accuracy, quality, or comprehensiveness. HPRC accepts no liability or other responsibility for direct or indirect damages or losses arising from the use of the Pangenome Reference, nor for direct or indirect damages or losses occasioned due to the unavailability of the Pangenome Reference. Each User agrees to bear all liability arising from its use, storage, and disposal of the Pangenome Reference.
+6. **Disclaimers:** The Pangenome Reference is provided as-is, without warranties or guarantees, express or implied, as to its fitness for a particular purpose, its accuracy, quality, or comprehensiveness. HPRC accepts no liability or other responsibility for direct or indirect damages or losses arising from the use of the Pangenome Reference, nor for direct or indirect damages or losses occasioned due to the unavailability of the Pangenome Reference. Each User agrees to bear all liability arising from its use, storage, and disposal of the Pangenome Reference.
 
 **Definitions:**
 
-**Pangenome Reference:** these are the Release II data resources produced by the HPRC and include raw sequence data, individual genome assemblies, sequence alignments, and annotations.
+**Pangenome Reference:** These are the Release II data resources produced by the HPRC and include raw sequence data, individual genome assemblies, sequence alignments, and annotations.
 
-**Users:** Any individual, institution or entity using the HPRCeed to send Pangenome Reference, including both commercial and non-commercial use.
+**Users:** Any individual, institution, or entity using the Pangenome Reference, including both commercial and non-commercial use.
 
 **Participant:** Any individual whose data are included in the Pangenome Reference.
