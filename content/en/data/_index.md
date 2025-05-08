@@ -7,11 +7,11 @@ showHeader: false
 
 ## Data
 
+The Human Pangenome Reference Consortium generates raw sequencing data, high-quality assemblies and, for Data Release 1, pangenomes. All data are open and publicly accessible. Sequencing data and assemblies for Data Release 2 can be accessed through the [HPRC Data Explorer](https://data.humanpangenome.org/), or through [AnVIL](https://anvilproject.org/) and [GitHub](https://github.com/human-pangenomics/hprc_intermediate_assembly/). Data Release 2 resources are being progressively added. Where Release 2 versions are not yet available, we advise using Data Release 1, accessible through the links below. Please refer to the [HPRC Data Use Best Practices](https://humanpangenome.org/data-use/) when using HPRC data.  
+
 <div style="text-align: center">
 {{< button link="https://data.humanpangenome.org/" style="secondary" text="HPRC Data Explorer" >}}
 </div>
-
-The Human Pangenome Reference Consortium generates raw sequencing data, high-quality assemblies, and pangenomes. All data generated is open, publicly accessible, and can be downloaded or used in AWS, GCP, AnVIL, or locally. 
 
 <!-- We have two “hot off the presses” data sets available at the links below for the HPRC project. These data sets are both using cutting edge technologies for evaluation for future mainstream use. A PacBio Revio sequence run performed at PacBio using an HPRC style library provided by Washington University (large discreet size fraction aiming for ~20kb), as well as an Oxford Nanopore duplex read data set generated at UCSC in close collaboration with Oxford Nanopore.
 
