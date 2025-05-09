@@ -17,7 +17,7 @@ showHeader: false
 
 The goal of the Human Pangenome Reference Consortium (HPRC) is to produce a new human genome reference that is more complete, more accurate, and better represents the broad range of human genetic variation. To do this, HPRC seeks to generate many complete high-quality phased reference genomes of genetically and biogeographically diverse individuals to create a Pangenome Reference (see Definition) containing almost all common human genetic variants. In 2023, HPRC released an initial draft version of the Pangenome Reference ([Release I](https://www.nature.com/articles/s41586-023-05896-x)). In 2025, HPRC released an updated and expanded version of the Pangenome Reference (Release II) that is freely available on the internet through the [HPRC data browser](https://data.humanpangenome.org/), [AnVIL](https://www.genome.gov/Funded-Programs-Projects/Computational-Genomics-and-Data-Science-Program/Genomic-Analysis-Visualization-Informatics-Lab-space-AnVIL), and public nucleotide archives ([INSDC](https://www.insdc.org/)). Release II includes:
 
-1. DNA sequence data of 230 samples, mostly derived from the 1000 Genomes Project, including long read (PacBio and Oxford Nanopore Technologies), proximity ligation (Dovetail Hi-C) data, and several dozen additional legacy samples with open consent,
+1. DNA sequence data of >230 samples, mostly derived from the 1000 Genomes Project, including long read (PacBio and Oxford Nanopore Technologies), proximity ligation (Dovetail Hi-C) data, and several dozen additional legacy samples with open consent,
 2. Corresponding high-quality, phased, and near-Telomere-2-Telomere assemblies,
 3. Annotations, including gene annotations, for all samples. Gene annotations integrate full-length RNA isoform data (PacBio Kinnex); available for most, but not all, samples.
 4. Graph-based assembly alignments that create an integrated view of the pangenome.
@@ -26,7 +26,7 @@ Files supplemental to the list above are also available, including long-read met
 
 **Purpose:**
 
-Below outlines the HPRC’s Ethics, Legal, and Social Implications Team’s recommended best practices for using the Release II Pangenome Reference. These best practices aim to promote the Pangenome Reference's ethical, legal, and fair use, and apply to all users (see Definition).
+Below outlines the HPRC’s recommended best practices for using the HPRC Pangenome Reference. These best practices aim to promote the Pangenome Reference's ethical, legal, and fair use, and apply to all users (see Definition).
 
 The following best practices are rooted in several documents on research ethics, including the global [Declaration of Helsinki,](https://www.wma.net/policies-post/wma-declaration-of-helsinki/) the [Council for International Organizations of Medical Sciences](https://cioms.ch/publications/product/international-guidelines-on-good-governance-practice-for-research-institutions/), and the [Belmont Principles](https://www.hhs.gov/ohrp/regulations-and-policy/belmont-report/index.html), as well as the [regulations](https://www.hhs.gov/ohrp/regulations-and-policy/regulations/45-cfr-46/index.html) and norms for the protection of human participants in the United States. HPRC expects that users will follow the best practices outlined below.
 
@@ -57,7 +57,7 @@ Please also see the [HPRC Publication Policy](/publication-policy).
 
 **Definitions:**
 
-**Pangenome Reference:** These are the Release II data resources produced by the HPRC and include raw sequence data, individual genome assemblies, sequence alignments, and annotations.
+**Pangenome Reference:** These are the data resources produced by the HPRC and include raw sequence data, individual genome assemblies, sequence alignments, and annotations.
 
 **Users:** Any individual, institution, or entity using the Pangenome Reference, including both commercial and non-commercial use.
 
