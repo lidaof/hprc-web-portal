@@ -7,7 +7,7 @@ showHeader: false
 
 ## Data
 
-The Human Pangenome Reference Consortium generates raw sequencing data, high-quality assemblies and, for Data Release 1, pangenomes. All data are open and publicly accessible. Sequencing data and assemblies for Data Release 2 can be accessed through the [HPRC Data Explorer](https://data.humanpangenome.org/), or through [AnVIL](https://anvilproject.org/) and [GitHub](https://github.com/human-pangenomics/hprc_intermediate_assembly/). Data Release 2 resources are being progressively added. Where Release 2 versions are not yet available, we advise using Data Release 1, accessible through the links below. Please refer to the [HPRC Data Use Best Practices](https://humanpangenome.org/data-use/) when using HPRC data.  
+The Human Pangenome Reference Consortium generates raw sequencing data, high-quality assemblies and, for Data Release 1, pangenomes. All data are open and publicly accessible. Sequencing data and assemblies for Data Release 2 can be accessed through the [HPRC Data Explorer](https://data.humanpangenome.org/), or through [AnVIL](https://anvilproject.org/) and [GitHub](https://github.com/human-pangenomics/hprc_intermediate_assembly/). Data Release 2 resources are being progressively added. Where Release 2 versions are not yet available, we advise using Data Release 1, accessible through the links below. Please refer to the [HPRC Data Use Best Practices](/data-use/) when using HPRC data.  
 
 <div style="text-align: center">
 {{< button link="https://data.humanpangenome.org/" style="secondary" text="HPRC Data Explorer" >}}
@@ -48,15 +48,14 @@ The HPRC has publicly released a dataset for Oxford Nanopore's new Duplex techno
 {{< columns count=2 >}}
 {{< column >}}
 
-### Sequencing Data Release2
+### Sequencing Data Release 2
 
 * PacBio HiFi (with modification calls)
 * PacBio Kinnex
 * Oxford Nanopore Ultralong (with modification calls)
-* Dovetail
-* Omni-C/Hi-C
+* Dovetail Omni-C
 
-In addition, we include high coverage Illumina data produced by the NYGC for parents and children (when available). If you would like to download the files, data indexes are available in the GitHub repository.
+In addition, we include high coverage Illumina data produced by the NYGC for parents and children (when available).
 {{< /column >}}
 {{< column >}}
 [!['AnVil Logo'](Data-AnVil.png 'AnVil Logo')](https://anvil.terra.bio/)
@@ -67,9 +66,9 @@ In addition, we include high coverage Illumina data produced by the NYGC for par
 <hr />
 {{< columns count=2 >}}
 {{< column >}}
-### Assemblies Release2
+### Assemblies Release 2
 
-Assemblies produced with Hifiasm are available alongside annotations for the assemblies. If you would like to download the files, data indexes are available in the GitHub repository.
+Assemblies produced with Hifiasm are available alongside annotations for the assemblies.
 {{< /column >}}
 
 {{< column >}}
@@ -84,7 +83,7 @@ Assemblies produced with Hifiasm are available alongside annotations for the ass
 {{< columns count=2 >}}
 {{< column >}}
 
-### Pangenomes Release1
+### Pangenomes Release 1
 
 The HPRC has released pangenomes from its year 1 data. Currently there are three main approaches:
 
