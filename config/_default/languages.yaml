@@ -134,6 +134,11 @@ en:
       url: "/data-use/"
       weight: 3
       parent: "elsi"
+    - identifier: "population-descriptors"
+      name: "Population Descriptors"
+      url: "/population-descriptors/"
+      weight: 4
+      parent: "elsi"
     - identifier: "contact"
       name: "Contact"
       url: "/contact/"

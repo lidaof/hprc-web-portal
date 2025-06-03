@@ -14,7 +14,7 @@ The Human Pangenome Reference Consortium is an international effort. The consort
 {{< br >}}
 
 {{< pinkbox >}}
-The Associate Membership Application is available [here](HPRCCollaborationInformationFormv3.1.pdf). The Associate Member policy can be accessed [here](HPRCAssociateMembers Policy6.2.25.pdf).
+The Associate Membership Application is available [here](HPRCCollaborationInformationFormv3.1.pdf). The Associate Member policy can be accessed [here](HPRCAssociateMembersPolicy6.2.25.pdf).
 {{< /pinkbox >}}
 
 
