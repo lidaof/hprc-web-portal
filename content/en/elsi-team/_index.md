@@ -118,5 +118,13 @@ Ann completed her PhD in Bioinformatics and Molecular Evolution from Dublin City
 Vasiliki Rahimzadeh, PhD, is Assistant Professor at the Center for Medical Ethics and Health Policy at Baylor College of Medicine. Her NIH-funded research investigates ethical, legal, and social issues of sharing genomic data across emerging computing environments. Dr. Rahimzadeh also co-leads the Regulatory and Ethics Work Stream of the Global Alliance for Genomics and Health, a technical and policy standards setting organization for responsible sharing of genomic data. She has served the National Academies of Science, Engineering, and Medicine, and contributes to the ELSI working group of HPRC on issues of data governance, access, and sharing. Dr. Rahimzadeh earned her PhD in Family Medicine and Primary Care Research with a specialization in biomedical ethics specialization from McGill University and completed postdoctoral training at Stanford University with support from a T32 Ethical, Legal, and Social Issues of Genetics/Genomics training grant.
 
 {{< /left >}} 
+{{< br >}}
+{{< left img="KarenMiga.png" alt="KarenMiga" >}}
+
+### Karen Miga, PhD
+
+Dr. Miga is an Associate Professor in the Biomolecular Engineering Department at UCSC and an Associate Director of the UCSC Genomics Institute. In 2019, she co-founded the Telomere-to-Telomere (T2T) Consortium, an open, community-based effort to generate the first complete assembly of a human genome. Additionally, Dr. Miga is the Director of the Genome Center for the Human Pangenome Reference Consortium (HPRC) and the Sequencing Technology Center at UCSC. Central to Dr. Miga’s research program is the emphasis on satellite DNA biology and the use of long-read and new genome technologies to construct high-quality genetics and epigenetic maps of human peri/centromeric regions.
+
+{{< /left >}} 
 
 {{< br >}}
