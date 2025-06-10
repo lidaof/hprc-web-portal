@@ -102,12 +102,28 @@ Dr. Sadye Paez is a Senior Research Associate at The Rockefeller University and 
 Nanibaa’ Garrison (Navajo), Ph.D., is an Associate Professor at the University of California, Los Angeles. She has appointments in the Institute for Society and Genetics, the Institute for Precision Health, and the Division of General Internal Medicine & Health Services Research. Her research focuses on the ethical, social, and cultural implications of genetic and genomic research in Indigenous communities. Using community-based research approaches, she engages with Tribal communities to develop policies and guidance regarding genetic and genomic research. She is also a member of the US Indigenous Data Sovereignty Network, the Navajo Nation Human Research Review Board, and co-director of the Precision Health and Genomics: Indigenous Mentoring and Ethics faculty program.
 
 {{< /left >}}
-
+{{< br >}}
 {{< left img="AnnMccartney.png" alt="AnnMccartney" >}}
 
 #### Ann McCartney, PhD
 
 Ann completed her PhD in Bioinformatics and Molecular Evolution from Dublin City University. She then carried out a Genomics Aotearoa Postdoctoral Research Fellowship where she created culturally respectful genomic informatics pipelines for the project that were responsive to the needs and rights of Māori. She then carried out a second Visiting Postdoctoral Fellowship in the Genome Informatics Section at the NHGRI. During this time, she also conducted a detail in the NIH Office of Science Policy. Today, Ann is an Assistant Researcher in UCSC’s Genomics Institute where she works at the forefront of genomic sequencing technologies to develop more just genomic data infrastructures, policies, and frameworks for engagement. She is an elected member of the Executive Council of the Earth BioGenome Project, an elected vice-chair of the European Reference Genome Atlas, and co-chair of the Local Contexts Technical Implementation Working Group. In addition to this work, Ann has also acted as a “technical expert” for many international science policy initiatives, including the DSI Network and Native Biodata Consortium.
+
+{{< /left >}} 
+{{< br >}}
+{{< left img="VasilikiRahimzadeh.png" alt="VasilikiRahimzadeh" >}}
+
+### Vasiliki Rahimzadeh, PhD
+
+Vasiliki Rahimzadeh, PhD, is Assistant Professor at the Center for Medical Ethics and Health Policy at Baylor College of Medicine. Her NIH-funded research investigates ethical, legal, and social issues of sharing genomic data across emerging computing environments. Dr. Rahimzadeh also co-leads the Regulatory and Ethics Work Stream of the Global Alliance for Genomics and Health, a technical and policy standards setting organization for responsible sharing of genomic data. She has served the National Academies of Science, Engineering, and Medicine, and contributes to the ELSI working group of HPRC on issues of data governance, access, and sharing. Dr. Rahimzadeh earned her PhD in Family Medicine and Primary Care Research with a specialization in biomedical ethics specialization from McGill University and completed postdoctoral training at Stanford University with support from a T32 Ethical, Legal, and Social Issues of Genetics/Genomics training grant.
+
+{{< /left >}} 
+{{< br >}}
+{{< left img="KarenMiga.png" alt="KarenMiga" >}}
+
+### Karen Miga, PhD
+
+Dr. Miga is an Associate Professor in the Biomolecular Engineering Department at UCSC and an Associate Director of the UCSC Genomics Institute. In 2019, she co-founded the Telomere-to-Telomere (T2T) Consortium, an open, community-based effort to generate the first complete assembly of a human genome. Additionally, Dr. Miga is the Director of the Genome Center for the Human Pangenome Reference Consortium (HPRC) and the Sequencing Technology Center at UCSC. Central to Dr. Miga’s research program is the emphasis on satellite DNA biology and the use of long-read and new genome technologies to construct high-quality genetics and epigenetic maps of human peri/centromeric regions.
 
 {{< /left >}} 
 
