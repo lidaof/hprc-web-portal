@@ -139,6 +139,11 @@ en:
       url: "/population-descriptors/"
       weight: 4
       parent: "elsi"
+    - identifier: "sample-use-ASW-MXL"
+      name: "Sample Use: ASW & MXL"
+      url: "/sample-use-ASW-MXL/"
+      weight: 5
+      parent: "elsi"
     - identifier: "contact"
       name: "Contact"
       url: "/contact/"
