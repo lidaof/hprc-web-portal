@@ -58,4 +58,9 @@ The Associate Membership Application is available [here](HPRCCollaborationInform
 | Mohammed Jashim Uddin | Mohammed Bin Rashid University of Medicine and Health Sciences | August 2024
 | Christine Beck | Uconn Health, Jackson Lab | August 2024
 | Mikhail Kolmogorov | National Cancer Institute | August 2024
-| Daniel Doerr | Department of Endocrinology and Diabetology, Medical Facility, Heinrich Heine University Dusseldord | August 2024
+| Daniel Doerr | Department of Endocrinology and Diabetology, Medical Facility, Heinrich Heine University Düsseldorf | August 2024
+| Maria Nattestad | OMGenomics Labs | September 2025
+| Jean Monlong | Institut de Recherche En Sante Digestive, CRN at INSERM | September 2025
+| Bong-Jo Kim | National Institute of Health, Republic of Korea | September 2025
+| Younh Jin Kim | National Institute of Health, Republic of Korea | September 2025
+| Clement Goubert | University of Arizona | September 2025
