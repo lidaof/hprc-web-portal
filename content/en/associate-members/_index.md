@@ -67,3 +67,5 @@ The Associate Membership Application is available [here](HPRCCollaborationInform
 | Bong-Jo Kim | National Institute of Health, Republic of Korea | September 2025
 | Young Jin Kim | National Institute of Health, Republic of Korea | September 2025
 | Clement Goubert | University of Arizona | October 2025
+
+{{<br>}}
