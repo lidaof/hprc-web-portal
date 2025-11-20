@@ -33,7 +33,7 @@ Contact PI – Karen Miga
 
 <khmiga@ucsc.edu>
 
-University of California Santa Cruz
+University of California, Santa Cruz
 
 Award Number: 2UM1HG010971-06
 {{< /left >}}
@@ -48,7 +48,7 @@ Contact PI – Erik Garrison
 
 <egarris5@uthsc.edu>
 
-University of California, Santa Cruz
+University of Tennessee Health Science Center
 
 Award Number: 1U01HG013760-01
 
