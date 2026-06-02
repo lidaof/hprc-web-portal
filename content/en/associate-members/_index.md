@@ -43,7 +43,7 @@ The Associate Membership Application is available [here](HPRCCollaborationInform
 | Chaochun Wei | Shanghai Jiao Tong University | January 2023 |
 | Mikko Rautiainen | University of Helsinki | January 2023 |
 | Alessandro Raveane | Human Technopole | May 2023
-| Nicole Seranzo | Human Technopole | May 2023
+| Nicole Soranzo | Human Technopole | May 2023
 | Charles Wang | Loma Linda University Center For Genomics | May 2023
 | Li Song | Geisel School of Medicine at Dartmouth | June 2023 |
 | Zechen Chong |University of Alabama at Birmingham | July 2023
