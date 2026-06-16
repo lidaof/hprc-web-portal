@@ -27,6 +27,12 @@ Tools for Comprehensive Variant Characterization Using the Pangenome: [**U01HG01
 
 Tooling for Accurately Studying the Epigenome Along the Human Pangenome Reference: [**U01HG013744-01**](https://reporter.nih.gov/search/-b_RoCPZZE2Y3VPOa26e3w/project-details/10976065)
 
+Computational Tools for Population-Scale Assembly and Genotyping with Pangenomes: [**U01HG014892-01**](https://reporter.nih.gov/project-details/11294551)
+
+PG4AD: Scaling up pangenome graph for genotyping complex structural variations for Alzheimer's disease genetics: [**U01AG098387**](https://reporter.nih.gov/project-details/11295134)
+
+Pangenome - Aware Methods for Accurate Somatic Variant Discovery in Cancer Genomics: [**U01CA309342**](https://reporter.nih.gov/search/TDvk-m-T5EyKFJycTQmTFA/project-details/11294518)
+
 **Completed Phase 1 Awards:**
 
 {{< bluespan >}}**Phase 1**{{< /bluespan >}} of the Human Genome Reference Program included three Genome Reference Representation Awards:
