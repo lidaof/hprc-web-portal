@@ -4,8 +4,8 @@
     "description": "HPRC web portal v3",
     "main": "none.js",
     "scripts": {
-        "build": "hugo",
-        "start": "hugo server",
+        "build": "hugo136",
+        "start": "hugo136 server",
         "start2": "hugo serve --logLevel info --configDir=config --buildDrafts --buildFuture --ignoreCache --disableFastRender --gc  --printI18nWarnings --printMemoryUsage --printPathWarnings --printUnusedTemplates --templateMetrics --templateMetricsHints",
         "dev": "npm run dev:start",
         "dev:start": "hugo serve --logLevel info --configDir=config --themesDir=themes --buildDrafts --buildFuture --ignoreCache --disableFastRender --gc  --printI18nWarnings --printMemoryUsage --printPathWarnings --printUnusedTemplates --templateMetrics --templateMetricsHints",

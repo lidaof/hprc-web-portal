@@ -7,7 +7,7 @@ showHeader: false
 
 ## Data
 
-The Human Pangenome Reference Consortium generates raw sequencing data, high-quality assemblies and, for Data Release 1, pangenomes. All data are open and publicly accessible. Sequencing data and assemblies for Data Release 2 can be accessed through the [HPRC Data Explorer](https://data.humanpangenome.org/), or through [AnVIL](https://anvilproject.org/) and [GitHub](https://github.com/human-pangenomics/hprc_intermediate_assembly/). Data Release 2 resources are being progressively added. Where Release 2 versions are not yet available, we advise using Data Release 1, accessible through the links below. Please refer to the [HPRC Data Use Best Practices](/data-use/) when using HPRC data.  
+The Human Pangenome Reference Consortium generates raw sequencing data, high-quality assemblies and, for Data Release 1, pangenomes. All data are open and publicly accessible. Sequencing data and assemblies for Data Release 2 can be accessed through the [HPRC Data Explorer](https://data.humanpangenome.org/), or through [AnVIL](https://explore.anvilproject.org/datasets?filter=%5B%7B%22categoryKey%22%3A%22datasets.title%22%2C%22value%22%3A%5B%22ANVIL_HPRC%22%5D%7D%5D) and [GitHub](https://github.com/human-pangenomics/hprc_intermediate_assembly/). Data Release 2 resources are being progressively added. Where Release 2 versions are not yet available, we advise using Data Release 1, accessible through the links below. Please refer to the [HPRC Data Use Best Practices](/data-use/) when using HPRC data.  
 
 <div style="text-align: center">
 {{< button link="https://data.humanpangenome.org/" style="secondary" text="HPRC Data Explorer" >}}
@@ -58,7 +58,7 @@ The HPRC has publicly released a dataset for Oxford Nanopore's new Duplex techno
 In addition, we include high coverage Illumina data produced by the NYGC for parents and children (when available).
 {{< /column >}}
 {{< column >}}
-[!['AnVil Logo'](Data-AnVil.png 'AnVil Logo')](https://anvil.terra.bio/)
+[!['AnVil Logo'](Data-AnVil.png 'AnVil Logo')](https://explore.anvilproject.org/datasets?filter=%5B%7B%22categoryKey%22%3A%22datasets.title%22%2C%22value%22%3A%5B%22ANVIL_HPRC%22%5D%7D%5D)
 [!['GitHub Logo'](Data-Github.png 'GitHub Logo')](https://github.com/human-pangenomics/hprc_intermediate_assembly/tree/main/data_tables/sequencing_data)
 [!['NCBI Logo'](Data-NCBI.png 'NCBI Logo')](https://www.ncbi.nlm.nih.gov/bioproject/730823)
 {{< /column >}}
@@ -72,7 +72,7 @@ Assemblies produced with Hifiasm are available alongside annotations for the ass
 {{< /column >}}
 
 {{< column >}}
-[!['AnVil Logo'](Data-AnVil.png 'AnVil Logo')](https://anvil.terra.bio/)
+[!['AnVil Logo'](Data-AnVil.png 'AnVil Logo')](https://explore.anvilproject.org/datasets?filter=%5B%7B%22categoryKey%22%3A%22datasets.title%22%2C%22value%22%3A%5B%22ANVIL_HPRC%22%5D%7D%5D)
 [!['NCBI Logo'](Data-NCBI.png 'NCBI Logo')](https://www.ncbi.nlm.nih.gov/bioproject/730823)
 [!['UCSC Logo'](Data-UCSC.png 'UCSC Logo')](http://hprc-browser.ucsc.edu/)
 [!['Ensembl Logo'](Data-ensembl.png 'Ensembl Logo')](https://projects.ensembl.org/hprc/)
@@ -94,7 +94,7 @@ The HPRC has released pangenomes from its year 1 data. Currently there are three
 Each pangenome has different strengths and weaknessness. If you do not know which pangenome best suits your needs, see the GitHub repository.
 {{< /column >}}
 {{< column >}}
-[!['AnVil Logo'](Data-AnVil.png 'AnVil Logo')](https://anvil.terra.bio/)
+[!['AnVil Logo'](Data-AnVil.png 'AnVil Logo')](https://explore.anvilproject.org/datasets?filter=%5B%7B%22categoryKey%22%3A%22datasets.title%22%2C%22value%22%3A%5B%22ANVIL_HPRC%22%5D%7D%5D)
 [!['GitHub Logo'](Data-Github.png 'GitHub Logo')](https://github.com/human-pangenomics/hpp_pangenome_resources)
 [!['ENA Logo'](Data-ENA.png 'ENA Logo')](https://www.ebi.ac.uk/ena/browser/)
 {{< /column >}}

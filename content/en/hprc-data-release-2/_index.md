@@ -39,7 +39,7 @@ All data from HPRC Release 2, including the new assemblies, is publicly availabl
   * [Sequencing Data](https://github.com/human-pangenomics/hprc_intermediate_assembly/tree/main/data_tables/sequencing_data)
   * [Assemblies](https://github.com/human-pangenomics/hprc_intermediate_assembly/tree/main/data_tables)
   * [Assembly Annotations](https://github.com/human-pangenomics/hprc_intermediate_assembly/tree/main/data_tables)
-* **AnVIL:** The data will shortly be available from the [AnVIL cloud environment](https://anvilproject.org/).  
+* **AnVIL:** HPRC Release 2 data is also available through the AnVIL cloud environment. Researchers can access the full release, including sequencing data, assemblies, and annotations, [directly within AnVIL](https://explore.anvilproject.org/datasets?filter=%5B%7B%22categoryKey%22%3A%22datasets.title%22%2C%22value%22%3A%5B%22ANVIL_HPRC%22%5D%7D%5D), enabling streamlined analysis alongside other hosted datasets and tools.  
 * **INSDC**: You can download HPRC genomes submitted to INSDC as a [customized data package](https://www.ncbi.nlm.nih.gov/datasets/genome/?bioproject=PRJNA730822) through web or command line interfaces. Explore additional HPRC-related content, including publications, through the [BioProject](https://www.ncbi.nlm.nih.gov/bioproject/PRJNA730822/).
 
 We encourage the community to explore and utilize this valuable resource to advance our understanding of human genetic variation and its impact on health and disease. For scientists interested in publishing using this pre-publication data, please see our consortium [publication policy](https://humanpangenome.org/publication-policy/) and [best practices for using](https://humanpangenome.org/data-use/) the data.
